@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .ZIP one-word domains still available to buy.
 
-This dataset contains 4,798 .ZIP one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,797 .ZIP one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.ZIP one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=zip-oneword-domains&utm_content=description.top) (4,799) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.ZIP one word domains]
 
 | Domain         | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | -------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaron.zip      | available | 88       | 32%    | 5      |           |         |         |
+| aaron.zip      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.zip  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.zip      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.zip  | premium   | 58       | 7%     | 9      |           |         |         |
@@ -31,7 +31,7 @@ If you want to search & filters the complete database of [.ZIP one word domains]
 | abatic.zip     | premium   | 54       | 2%     | 6      |           |         |         |
 | abaxial.zip    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.zip   | available | 50       | 1%     | 8      |           |         |         |
-| abc.zip        | available | 102      | 41%    | 3      |           |         |         |
+| abc.zip        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.zip  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.zip  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.zip | available | 56       | 1%     | 10     |           |         |         |
