@@ -47,7 +47,7 @@ If you want to search & filters the complete database of [.ZIP one word domains]
 | abiding.zip    | available | 106      | 5%     | 7      |           |         |         |
 | abient.zip     | available | 54       | 1%     | 6      |           |         |         |
 | ability.zip    | available | 92       | 15%    | 7      |           |         |         |
-| abit.zip       | available | 66       | 12%    | 5      |           |         |         |
+| abit.zip       | available | 68       | 12%    | 5      |           |         |         |
 | abject.zip     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.zip     | available | 68       | 1%     | 6      |           |         |         |
 | abkhasian.zip  | available | 78       | 1%     | 9      |           |         |         |
@@ -88,9 +88,9 @@ If you want to search & filters the complete database of [.ZIP one word domains]
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 30,756       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 63,843       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,598,573    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expired  | 30,719       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 64,044       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,599,086    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
