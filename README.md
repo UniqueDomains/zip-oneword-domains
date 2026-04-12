@@ -1,22 +1,22 @@
-# Available .ZIP One-Word Domains (5,622,112)
+# Available .ZIP One-Word Domains (9,566)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C567%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C622%2C112%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C566%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C566%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .zip one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .zip one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 9,567-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,622,112 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,567 rows · **Live catalog:** 5,622,112 domains
+**Public extract:** 9,566 rows · **Live catalog:** 9,566 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/zip`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .ZIP one-word domain c
 
 ### Files
 
-- `zip.csv` — public CSV extract (9,567 rows)
-- `zip.json` — public JSON extract (9,567 rows)
+- `zip.csv` — public CSV extract (9,566 rows)
+- `zip.json` — public JSON extract (9,566 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -68,22 +68,22 @@ print(df.head())
 | new.zip        | resell    | —         | —             | 82             | 49     | 3      | 101domain, Inc.  |
 | easy.zip       | premium   | $1,248.75 | $1,248.75     | 128            | 62     | 4      | name.com         |
 | athletics.zip  | available | $15.88    | —             | 69             | 52     | 9      | namecheap        |
-| gag.zip        | resell    | —         | —             | 88             | 20     | 3      | 101domain, Inc.  |
-| power.zip      | premium   | $1,298.70 | $1,298.70     | 98             | 62     | 5      | namecheap        |
-| eternal.zip    | available | $15.88    | —             | 92             | 40     | 7      | namecheap        |
 | cancel.zip     | resell    | —         | —             | 64             | 17     | 6      | GoDaddy.com, LLC |
+| power.zip      | premium   | $1,298.70 | $1,298.70     | 98             | 62     | 5      | namecheap        |
+| eternal.zip    | available | $15.88    | —             | 92             | 39     | 7      | namecheap        |
+| attachment.zip | resell    | —         | —             | 72             | 12     | 10     | Spaceship, Inc.  |
 | seventeen.zip  | premium   | $36.25    | $36.25        | 84             | 62     | 9      | name.com         |
 | remedial.zip   | available | $15.88    | —             | 86             | 24     | 8      | namecheap        |
-| attachment.zip | resell    | —         | —             | 72             | 12     | 10     | Spaceship, Inc.  |
+| wasteland.zip  | resell    | —         | —             | 44             | 9      | 9      | Namecheap Inc.   |
 | free.zip       | premium   | $623.75   | $623.75       | 88             | 59     | 4      | name.com         |
 | neutral.zip    | available | $15.88    | —             | 92             | 22     | 7      | namecheap        |
-| wasteland.zip  | resell    | —         | —             | 44             | 9      | 9      | Namecheap Inc.   |
 | ace.zip        | premium   | $161.25   | $161.25       | 88             | 57     | 3      | name.com         |
 | cooked.zip     | available | $15.88    | —             | 70             | 21     | 6      | namecheap        |
-| live.zip       | premium   | $1,248.75 | $1,248.75     | 108            | 55     | 4      | name.com         |
-| virtuoso.zip   | available | $15.88    | —             | 94             | 20     | 8      | namecheap        |
-| good.zip       | premium   | $623.75   | $623.75       | 82             | 55     | 4      | name.com         |
+| live.zip       | premium   | $1,248.75 | $1,248.75     | 108            | 56     | 4      | name.com         |
 | diligent.zip   | available | $15.88    | —             | 68             | 20     | 8      | namecheap        |
+| good.zip       | premium   | $623.75   | $623.75       | 82             | 55     | 4      | name.com         |
+| virtuoso.zip   | available | $15.88    | —             | 94             | 19     | 8      | namecheap        |
+| alpha.zip      | premium   | $1,248.75 | $1,248.75     | 90             | 54     | 5      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,567-row public sample | 5,622,112 live domains                           |
+| 9,566-row public sample | 9,566 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ZIP One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ZIP One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
