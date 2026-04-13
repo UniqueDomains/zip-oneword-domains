@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .zip one-word domains from Unique 
 
 **Public extract:** 9,566 rows · **Live catalog:** 9,566 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/zip`  
 **Best for:** founders, investors, studios
 
@@ -75,15 +75,15 @@ print(df.head())
 | seventeen.zip  | premium   | $36.25    | $36.25        | 84             | 62     | 9      | name.com         |
 | remedial.zip   | available | $15.88    | —             | 86             | 24     | 8      | namecheap        |
 | wasteland.zip  | resell    | —         | —             | 44             | 9      | 9      | Namecheap Inc.   |
-| free.zip       | premium   | $623.75   | $623.75       | 88             | 59     | 4      | name.com         |
-| neutral.zip    | available | $15.88    | —             | 92             | 22     | 7      | namecheap        |
 | ace.zip        | premium   | $161.25   | $161.25       | 88             | 57     | 3      | name.com         |
-| cooked.zip     | available | $15.88    | —             | 70             | 21     | 6      | namecheap        |
+| neutral.zip    | available | $15.88    | —             | 92             | 22     | 7      | namecheap        |
+| free.zip       | premium   | $623.75   | $623.75       | 88             | 57     | 4      | name.com         |
+| cooked.zip     | available | $15.88    | —             | 70             | 20     | 6      | namecheap        |
 | live.zip       | premium   | $1,248.75 | $1,248.75     | 108            | 56     | 4      | name.com         |
 | diligent.zip   | available | $15.88    | —             | 68             | 20     | 8      | namecheap        |
 | good.zip       | premium   | $623.75   | $623.75       | 82             | 55     | 4      | name.com         |
 | virtuoso.zip   | available | $15.88    | —             | 94             | 19     | 8      | namecheap        |
-| alpha.zip      | premium   | $1,248.75 | $1,248.75     | 90             | 54     | 5      | name.com         |
+| zero.zip       | premium   | $623.75   | $623.75       | 112            | 53     | 4      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ZIP One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ZIP One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
