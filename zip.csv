@@ -446,6 +446,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 267936b7-7bf2-4a5c-b304-f8ce7d981286,stages.zip,premium,311.25,,57,12,6,name.com,,
 267d1fd5-147f-4cd4-bf3d-530d2b48f420,Obamacare.zip,available,15.88,,66,8,10,namecheap,,
 267f683b-eede-4cea-860e-b3976d743662,sanctions.zip,available,15.88,,52,8,9,namecheap,,
+2681ce1c-0d22-45dc-8e1c-924b28499af2,evaporate.zip,premium,,,72,5,9,,,
 26912156-50bc-4762-9e9d-48f540f428f4,shorted.zip,available,15.88,,61,4,7,namecheap,,
 26ac4c0f-ae69-44c1-8cfb-0889d159c2a2,alcoholics.zip,available,15.88,,38,4,10,namecheap,,
 26c4d0e0-2263-4e62-89ad-2ed24a55ff71,sellthrough.zip,available,15.88,,64,2,12,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 58b70e96-5f66-4da0-b285-968730df26a2,AcademyAward.zip,available,15.88,,76,1,13,namecheap,,
 58fc86ac-dcf7-4c57-b3aa-8d87fa73bf7e,differed.zip,available,15.88,,48,2,8,namecheap,,
 5905cc8f-79df-4920-87b3-f004ec5a771a,OttomanEmpire.zip,available,15.88,,64,2,14,namecheap,,
-590773c2-6576-4d05-8057-0f2bcc40199d,justthen.zip,available,15.88,,62,1,9,namecheap,,
