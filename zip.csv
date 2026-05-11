@@ -631,6 +631,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 373ed836-1e0b-4299-93f6-9eebf90ad710,secondyear.zip,available,15.88,,66,1,11,namecheap,,
 376d9957-4a42-4c73-9d06-77f62b2fa1dd,saws.zip,available,15.88,,50,8,4,namecheap,,
 3778c0e2-8012-44ae-aad0-82e3066f13e1,excitingness.zip,available,15.88,,68,1,12,namecheap,,
+377d2e25-8ded-4ae9-b49f-1bf01c6b2b2f,fivestar.zip,premium,,,86,25,9,,,
 37857407-34ce-4a5c-ab5c-6efbc18f8c6e,bolts.zip,premium,36.25,,50,11,5,name.com,,
 37c6e24b-b25c-47cc-900b-43d5bd9e547b,Books.zip,premium,1398.6,1398.6,52,49,5,namecheap,,
 37d0c07e-2a13-4ee9-9193-3f0bdbe8266f,GoldenValley.zip,available,15.88,,58,6,13,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 58a3877e-6378-4ea2-b29d-eb05bd92182b,newer.zip,premium,36.25,,60,8,5,name.com,,
 58b70e96-5f66-4da0-b285-968730df26a2,AcademyAward.zip,available,15.88,,76,1,13,namecheap,,
 58fc86ac-dcf7-4c57-b3aa-8d87fa73bf7e,differed.zip,available,15.88,,48,2,8,namecheap,,
-5905cc8f-79df-4920-87b3-f004ec5a771a,OttomanEmpire.zip,available,15.88,,64,2,14,namecheap,,
