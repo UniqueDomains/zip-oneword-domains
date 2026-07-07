@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .zip one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,501 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,501 domains · **Median ask:** $77.68 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,501 domains · **Median ask:** $115.40 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/zip`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/zip`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .ZIP one-word domain c
 
 ### Files
 
-- `zip.csv` — public CSV extract (1,000 rows)
-- `zip.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `zip.csv`, public CSV extract (1,000 rows)
+- `zip.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| barup.zip         | available | $15.88    | —             | 82             | 2      | 6      | namecheap |
-| useit.zip         | available | $15.88    | —             | 94             | 7      | 6      | namecheap |
-| dogsit.zip        | available | $15.88    | —             | 96             | 2      | 6      | namecheap |
-| dogsick.zip       | available | $15.88    | —             | 90             | 1      | 7      | namecheap |
-| getlife.zip       | available | $15.88    | —             | 80             | 5      | 8      | namecheap |
-| Snickers.zip      | available | $15.88    | —             | 80             | 10     | 8      | namecheap |
-| FabFour.zip       | available | $15.88    | —             | 82             | 3      | 8      | namecheap |
-| surebet.zip       | available | $15.88    | —             | 82             | 7      | 8      | namecheap |
-| dogstail.zip      | available | $15.88    | —             | 94             | 1      | 8      | namecheap |
-| bedframe.zip      | available | $15.88    | —             | 80             | 3      | 9      | namecheap |
-| midautumn.zip     | available | $15.88    | —             | 80             | 2      | 9      | namecheap |
-| jetblack.zip      | available | $15.88    | —             | 82             | 8      | 9      | namecheap |
-| keepthechange.zip | available | $15.88    | —             | 46             | 59     | 15     | namecheap |
-| travelers.zip     | premium   | $161.25   | —             | 58             | 61     | 9      | name.com  |
-| neuroscience.zip  | available | $15.88    | —             | 80             | 37     | 12     | namecheap |
-| Books.zip         | premium   | $1,398.60 | $1,398.60     | 52             | 49     | 5      | namecheap |
-| commonground.zip  | available | $15.88    | —             | 74             | 28     | 13     | namecheap |
-| skills.zip        | premium   | $623.75   | —             | 58             | 47     | 6      | name.com  |
-| goviral.zip       | available | $15.88    | —             | 76             | 17     | 8      | namecheap |
-| coins.zip         | premium   | $623.75   | —             | 56             | 41     | 5      | name.com  |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| brie.zip   | available | $15.88    | —             | high           | low    | 4      | namecheap        |
+| cancel.zip | resell    | —         | —             | medium         | low    | 6      | GoDaddy.com, LLC |
+| age.zip    | premium   | $311.25   | —             | high           | low    | 3      | name.com         |
+| obese.zip  | available | $15.88    | —             | high           | low    | 5      | namecheap        |
+| aid.zip    | premium   | $623.75   | —             | medium         | low    | 3      | name.com         |
+| Rhoda.zip  | available | $15.88    | —             | medium         | low    | 5      | namecheap        |
+| aim.zip    | premium   | $311.25   | —             | high           | low    | 3      | name.com         |
+| shrub.zip  | available | $15.88    | —             | medium         | low    | 5      | namecheap        |
+| awe.zip    | premium   | $73.75    | —             | high           | low    | 3      | name.com         |
+| stood.zip  | available | $15.88    | —             | low            | low    | 5      | namecheap        |
+| beg.zip    | premium   | $73.75    | —             | medium         | low    | 3      | name.com         |
+| tabby.zip  | available | $15.88    | —             | medium         | low    | 5      | namecheap        |
+| ben.zip    | premium   | $623.75   | —             | high           | medium | 3      | name.com         |
+| abkhas.zip | available | $9.99     | $18.99        | medium         | low    | 6      | name.com         |
+| bug.zip    | premium   | $623.75   | —             | high           | low    | 3      | name.com         |
+| abkhaz.zip | available | $9.99     | $18.99        | high           | low    | 6      | name.com         |
+| bye.zip    | premium   | $161.25   | —             | high           | low    | 3      | name.com         |
+| abrupt.zip | available | $9.99     | $18.99        | high           | low    | 6      | name.com         |
+| con.zip    | premium   | $311.25   | —             | high           | low    | 3      | name.com         |
+| bouncy.zip | available | $15.88    | —             | high           | low    | 6      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely made up of one-word .zip domains. The names range from direct dictionary-style terms like edamame.zip and pierogi.zip to more action-led forms like useit.zip, toneup.zip, and dogsit.zip. That mix matters when choosing. Founders usually want a name that is easy to say, easy to remember, and broad enough to grow with. Investors usually care whether the ask leaves room for resale and whether the word has clear recognition. The median ask here is 77.68, so the main job is not finding cheap names in general. It is separating strong, usable words from names with weaker recall or possible trademark friction, such as brand-like strings.
+This selection brings together 12,501 one-word .zip domain names, ranging from everyday phrases like shoparound.zip and backyard.zip to short nouns like criteria.zip and chickensoup.zip. The median ask sits near $115, keeping most of these domains within reach for founders building a brand and investors scanning for undervalued picks. Because .zip reads clean and short, single-word names in this list tend to stay memorable and easy to spell. When comparing these domains, weigh the asking price against renewal cost and how naturally the word fits a product or company name.
 
-- Favor clear words with strong recall and clean pronunciation
-- Use ask price to judge margin discipline and budget fit
-- Be cautious with brand-like terms such as Chanel.zip
-- Check whether the word feels broad or use-case limited
+- 12,501 one-word .zip domain names in this selection
+- Median ask near $115 across the list
+- Everyday phrases and short nouns, e.g. backyard.zip, criteria.zip
+- Updated daily for pricing and availability
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ZIP One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ZIP One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
