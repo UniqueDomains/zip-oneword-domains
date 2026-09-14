@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .zip one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 23,910 domains · **Median ask:** $63.66 · **High-demand under $2,500:** 29
 
-**Last updated:** 2026-09-13
+**Last updated:** 2026-09-14
 **Canonical page:** `https://unique.domains/domains/tld/zip`
 **Best for:** founders, investors, studios
 
@@ -68,7 +68,7 @@ print(df.head())
 | cancel.zip | resell    | —         | —             | medium         | low    | 6      | GoDaddy.com, LLC |
 | abo.zip    | premium   | $73.75    | $73.75        | low            | low    | 3      | name.com         |
 | awol.zip   | available | $12.98    | $15.88        | low            | low    | 4      | namecheap        |
-| age.zip    | premium   | $311.25   | —             | high           | low    | 3      | name.com         |
+| age.zip    | premium   | $323.70   | $323.70       | medium         | low    | 3      | namecheap        |
 | brie.zip   | available | $15.88    | —             | high           | low    | 4      | namecheap        |
 | aid.zip    | premium   | $623.75   | —             | medium         | low    | 3      | name.com         |
 | taal.zip   | available | $12.98    | $15.88        | low            | low    | 4      | namecheap        |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ZIP One-Word Domains*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ZIP One-Word Domains*. Version 2026-09-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
