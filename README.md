@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .zip one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 32,235 domains · **Median ask:** $54.19 · **High-demand under $2,500:** 23
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/zip`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| sorry.zip   | premium   | $311.25   | $311.25       | high           | low    | 5      | name.com         |
-| correct.zip | premium   | $311.25   | $311.25       | high           | low    | 7      | name.com         |
-| soft.zip    | premium   | $623.75   | $623.75       | high           | low    | 4      | name.com         |
-| wrong.zip   | premium   | $311.25   | —             | high           | low    | 5      | name.com         |
-| gay.zip     | premium   | $1,248.75 | —             | high           | medium | 3      | name.com         |
-| agog.zip    | available | $12.98    | $15.88        | low            | low    | 4      | namecheap        |
-| cancel.zip  | resell    | —         | —             | medium         | low    | 6      | GoDaddy.com, LLC |
-| abo.zip     | premium   | $73.75    | $73.75        | low            | low    | 3      | name.com         |
-| awol.zip    | available | $12.98    | $15.88        | low            | low    | 4      | namecheap        |
-| age.zip     | premium   | $323.70   | $323.70       | medium         | low    | 3      | namecheap        |
-| brie.zip    | available | $15.88    | —             | high           | low    | 4      | namecheap        |
-| aid.zip     | premium   | $623.75   | —             | medium         | low    | 3      | name.com         |
-| taal.zip    | available | $12.98    | $15.88        | low            | low    | 4      | namecheap        |
-| aim.zip     | premium   | $311.25   | —             | high           | low    | 3      | name.com         |
-| xciv.zip    | available | $12.98    | $15.88        | low            | low    | 4      | namecheap        |
-| awe.zip     | premium   | $73.75    | —             | high           | low    | 3      | name.com         |
-| xcvi.zip    | available | $12.98    | $15.88        | low            | low    | 4      | namecheap        |
-| beg.zip     | premium   | $73.75    | —             | medium         | low    | 3      | name.com         |
-| xlii.zip    | available | $12.98    | $15.88        | low            | low    | 4      | namecheap        |
-| ben.zip     | premium   | $623.75   | —             | high           | medium | 3      | name.com         |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| agog.zip   | available | $12.98    | $15.88        | low            | low    | 4      | namecheap        |
+| cancel.zip | resell    | —         | —             | medium         | low    | 6      | GoDaddy.com, LLC |
+| abo.zip    | premium   | $73.75    | $73.75        | low            | low    | 3      | name.com         |
+| awol.zip   | available | $12.98    | $15.88        | low            | low    | 4      | namecheap        |
+| age.zip    | premium   | $323.70   | $323.70       | medium         | low    | 3      | namecheap        |
+| brie.zip   | available | $15.88    | —             | high           | low    | 4      | namecheap        |
+| aid.zip    | premium   | $623.75   | —             | medium         | low    | 3      | name.com         |
+| taal.zip   | available | $12.98    | $15.88        | low            | low    | 4      | namecheap        |
+| aim.zip    | premium   | $311.25   | —             | high           | low    | 3      | name.com         |
+| xciv.zip   | available | $12.98    | $15.88        | low            | low    | 4      | namecheap        |
+| awe.zip    | premium   | $73.75    | —             | high           | low    | 3      | name.com         |
+| xcvi.zip   | available | $12.98    | $15.88        | low            | low    | 4      | namecheap        |
+| beg.zip    | premium   | $73.75    | —             | medium         | low    | 3      | name.com         |
+| xlii.zip   | available | $12.98    | $15.88        | low            | low    | 4      | namecheap        |
+| ben.zip    | premium   | $623.75   | —             | high           | medium | 3      | name.com         |
+| algal.zip  | available | $12.98    | $15.88        | low            | low    | 5      | namecheap        |
+| bug.zip    | premium   | $623.75   | —             | high           | low    | 3      | name.com         |
+| apian.zip  | available | $12.98    | $15.88        | low            | low    | 5      | namecheap        |
+| bye.zip    | premium   | $161.25   | —             | high           | low    | 3      | name.com         |
+| atilt.zip  | available | $12.98    | $15.88        | low            | low    | 5      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ZIP One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ZIP One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
