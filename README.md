@@ -1,10 +1,10 @@
-# Available .ZIP One-Word Domains (24,985)
+# Available .ZIP One-Word Domains (26,768)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C985%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-26%2C768%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .zip one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **24,985 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **26,768 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 24,985 domains · **Median ask:** $77.31 · **High-demand under $2,500:** 44
+**Public extract:** 1,000 rows · **Live catalog:** 26,768 domains · **Median ask:** $74.28 · **High-demand under $2,500:** 43
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-29
 **Canonical page:** `https://unique.domains/domains/tld/zip`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| agal.zip | available | $12.98    | $15.88        | medium         | low    | 4      | namecheap |
-| auc.zip  | premium   | $76.70    | $76.70        | high           | low    | 3      | namecheap |
-| agee.zip | available | $12.98    | $15.88        | medium         | low    | 4      | namecheap |
-| aum.zip  | premium   | $76.70    | $76.70        | high           | low    | 3      | namecheap |
-| ahem.zip | available | $12.98    | $15.88        | high           | low    | 4      | namecheap |
-| bee.zip  | premium   | $623.75   | —             | high           | medium | 3      | name.com  |
-| akha.zip | available | $12.98    | $15.88        | medium         | low    | 4      | namecheap |
-| bey.zip  | premium   | $76.70    | $76.70        | medium         | low    | 3      | namecheap |
-| anus.zip | available | $12.98    | $15.88        | medium         | low    | 4      | namecheap |
-| bra.zip  | premium   | $311.25   | —             | high           | low    | 3      | name.com  |
-| apia.zip | available | $12.98    | $15.88        | medium         | low    | 4      | namecheap |
-| cpu.zip  | premium   | $648.70   | $648.70       | high           | low    | 3      | namecheap |
-| ashy.zip | available | $12.98    | $15.88        | medium         | low    | 4      | namecheap |
-| dna.zip  | premium   | $76.70    | $76.70        | high           | medium | 3      | namecheap |
-| lxxx.zip | available | $12.98    | $15.88        | medium         | low    | 4      | namecheap |
-| dom.zip  | premium   | $133.72   | $133.72       | high           | medium | 3      | spaceship |
-| noaa.zip | available | $10.52    | $10.52        | high           | low    | 4      | spaceship |
-| gar.zip  | premium   | $167.70   | $167.70       | medium         | low    | 3      | namecheap |
-| pent.zip | available | $12.98    | $15.88        | medium         | low    | 4      | namecheap |
-| gay.zip  | premium   | $1,298.70 | $1,298.70     | high           | medium | 3      | namecheap |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| agal.zip | available | $12.98    | $15.88        | medium         | low    | 4      | namecheap   |
+| auc.zip  | premium   | $76.70    | $76.70        | high           | low    | 3      | namecheap   |
+| agee.zip | available | $12.98    | $15.88        | medium         | low    | 4      | namecheap   |
+| aum.zip  | premium   | $76.70    | $76.70        | high           | low    | 3      | namecheap   |
+| ahem.zip | available | $12.98    | $15.88        | high           | low    | 4      | namecheap   |
+| bee.zip  | premium   | $499.20   | —             | high           | medium | 3      | unstoppable |
+| akha.zip | available | $12.98    | $15.88        | medium         | low    | 4      | namecheap   |
+| bey.zip  | premium   | $76.70    | $76.70        | medium         | low    | 3      | namecheap   |
+| anus.zip | available | $12.98    | $15.88        | medium         | low    | 4      | namecheap   |
+| cpu.zip  | premium   | $648.70   | $648.70       | high           | low    | 3      | namecheap   |
+| apia.zip | available | $12.98    | $15.88        | medium         | low    | 4      | namecheap   |
+| dna.zip  | premium   | $76.70    | $76.70        | high           | medium | 3      | namecheap   |
+| ashy.zip | available | $12.98    | $15.88        | medium         | low    | 4      | namecheap   |
+| dom.zip  | premium   | $133.72   | $133.72       | high           | medium | 3      | spaceship   |
+| lxxx.zip | available | $12.98    | $15.88        | medium         | low    | 4      | namecheap   |
+| gar.zip  | premium   | $167.70   | $167.70       | medium         | low    | 3      | namecheap   |
+| noaa.zip | available | $10.52    | $10.52        | high           | low    | 4      | spaceship   |
+| gay.zip  | premium   | $1,298.70 | $1,298.70     | high           | medium | 3      | namecheap   |
+| pent.zip | available | $12.98    | $15.88        | medium         | low    | 4      | namecheap   |
+| gil.zip  | premium   | $76.70    | $76.70        | high           | low    | 3      | namecheap   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 24,985 live domains                        |
+| 1,000-row public sample | 26,768 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 44 high-demand names under $2,500          |
+| Basic exported fields   | 43 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ZIP One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ZIP One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
