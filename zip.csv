@@ -2,6 +2,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 857ae003-05e4-42d0-ad54-12849faf213a,watersheds.zip,available,10.81,10.81,low,low,10,porkbun,,,28/09/2026 23:41
 cad9e88b-532d-4658-a303-9eae91bbd158,steele.zip,premium,61.27,61.27,high,low,6,spaceship,,,28/09/2026 10:56
 51b00865-4b71-41f6-8b77-ec5df117cbe1,plum.zip,premium,73.75,73.75,high,medium,4,name.com,,,12/08/2026 10:07
+a0bd9510-d847-4e3d-96b3-712ae0cf8711,pronoun.zip,available,14,,high,low,7,unstoppable,,,01/10/2026 21:23
 f96dfd14-e037-45f1-b8ca-f2a4d0a14978,destroys.zip,available,14,,low,low,8,unstoppable,,,29/09/2026 05:36
 e2e88403-0310-4e02-9e1e-34c777fc7237,tantric.zip,available,12.98,15.88,high,low,7,namecheap,,,11/09/2026 08:05
 987ddc65-820c-4964-a92c-0d93500cacab,deck.zip,premium,129.2,167.7,high,low,4,unstoppable,,,29/09/2026 13:27
@@ -24,6 +25,7 @@ ca04662b-e79c-443b-be30-4f9f6a540f8a,orangutan.zip,available,10.52,10.52,high,lo
 06ececda-afbc-497c-88a1-5b39b4854ace,nasir.zip,premium,30.22,30.22,medium,low,5,spaceship,,,30/09/2026 13:54
 c08d947b-35e0-4602-ad8c-dec5f6bc1541,significant.zip,premium,30.22,30.22,high,low,11,spaceship,,,01/10/2026 01:29
 4337e6f6-67c4-4c4e-a92e-a84df4588745,intriguing.zip,available,12.98,15.88,high,low,10,namecheap,,,25/09/2026 10:52
+25fb5c0a-aec3-48f0-824e-eea8a84da1da,ied.zip,premium,59.2,,medium,low,3,unstoppable,,,01/10/2026 20:02
 3918e806-ad81-453d-ba2e-20cdab13ebfa,intoxicated.zip,available,14,,medium,low,11,unstoppable,,,30/09/2026 03:42
 9e14050b-c127-4af7-8c2e-a4e960bbc272,zambian.zip,available,12.98,15.88,high,low,7,namecheap,,,13/09/2026 15:05
 a7a64154-fdc3-433d-992d-a5f847e0124e,inherited.zip,available,12.98,15.88,high,low,9,namecheap,,,18/08/2026 21:33
@@ -38,6 +40,7 @@ d659a669-aaeb-4818-a895-21f97e8cef28,fuckster.zip,available,15.88,,medium,low,8,
 48a012f3-2e44-45e4-9c4c-3484070b974a,neonate.zip,available,12.98,15.88,medium,low,7,namecheap,,,03/09/2026 16:44
 cb04d0f3-9a28-4bab-bdf9-2754d03272c7,anorexia.zip,available,12.98,15.88,medium,low,8,namecheap,,,19/09/2026 11:46
 b9a82073-02a1-4d52-9afe-694d3053f76f,quaintly.zip,available,12.98,15.88,medium,low,8,namecheap,,,15/09/2026 22:07
+031a1caa-86b5-4209-bbdc-c2f5356c8e49,neotropical.zip,available,14,,medium,low,11,unstoppable,,,01/10/2026 05:24
 3157b0a0-2efb-48b8-b27c-c267799b908c,giver.zip,premium,37.7,37.7,high,low,5,namecheap,,,23/09/2026 10:44
 3cf9b397-07bf-4cb0-9712-2c94265c62e7,noaa.zip,available,10.52,10.52,high,low,4,spaceship,,,28/09/2026 02:28
 ba7f4bcd-877a-4d11-88d6-d76edef6cf16,hdl.zip,premium,76.7,76.7,high,low,3,namecheap,,,18/09/2026 13:33
@@ -47,6 +50,7 @@ c7bfd103-a75d-4962-93a6-67146d794207,mongoloid.zip,available,12.98,15.88,medium,
 c68420da-aeff-4f4a-b092-392a06d27c03,conjoin.zip,available,12.98,15.88,high,low,7,namecheap,,,13/09/2026 09:37
 fab86e47-68b5-4db2-b4cc-b144e65f1c43,ration.zip,available,10.52,10.52,high,low,6,spaceship,,,30/09/2026 02:40
 d7e33808-bc01-4ae3-942d-232ca9e017b9,structures.zip,premium,73.75,,medium,low,10,name.com,,,
+845897fb-2437-47c6-b951-e1fdd6bf8c45,ranges.zip,premium,30.22,30.22,medium,low,6,spaceship,,,01/10/2026 15:26
 705642c9-e539-4b3d-8a9c-083a785f63d5,fatal.zip,premium,37.7,37.7,high,low,5,namecheap,,,23/09/2026 12:24
 9a2d5792-8b9d-43e9-88bc-a97ecde1bf48,persistent.zip,available,12.98,15.88,high,low,10,namecheap,,,14/08/2026 14:58
 04b49e78-6261-466c-babd-3a0d7a32b92e,vientiane.zip,available,19.99,19.99,medium,low,9,godaddy,,,01/10/2026 01:16
@@ -56,6 +60,7 @@ fa0006bd-f36e-4229-a86c-204295da1073,planet.zip,premium,1298.7,1298.7,high,mediu
 d782c2c3-0aed-4f26-8e24-d2f72a4ea39e,trasimeno.zip,available,12.98,15.88,medium,low,9,namecheap,,,22/09/2026 16:12
 72a9de41-a5d0-4db4-b03e-35d0fca0ade4,apologise.zip,available,10.52,10.52,high,low,9,spaceship,,,30/09/2026 15:07
 e36a92ac-c70e-4cb5-bb98-18aec4d210bf,prototypic.zip,available,12.98,15.88,medium,low,10,namecheap,,,06/08/2026 15:42
+f6913ce5-3bbb-45e5-b3f6-5c7c0907aad1,unspecified.zip,available,14,,medium,low,11,unstoppable,,,02/10/2026 01:19
 e6f9d4c3-d972-4cd6-884e-59e966b8c8f5,coop.zip,premium,311.25,311.25,high,low,5,name.com,,,13/08/2026 00:15
 49a00269-a812-4f5a-8806-78e8282a8244,castle.zip,premium,323.7,323.7,high,low,6,namecheap,,,25/09/2026 04:06
 daf79e0d-658f-4c4e-a217-a618ce8cb0c0,ruffled.zip,available,12.98,15.88,medium,low,7,namecheap,,,18/08/2026 15:53
@@ -67,8 +72,10 @@ d7edf0ee-97bd-44c3-b35b-8d4d646500cb,nimble.zip,premium,37.7,37.7,high,low,6,nam
 94dd2332-a610-4e8f-92a5-1110bd599518,front.zip,premium,311.25,311.25,high,low,5,name.com,,,24/09/2026 21:48
 aa2c5b9c-dc36-41e5-a2b8-d943d16d17bc,blankness.zip,available,12.98,15.88,medium,low,9,namecheap,,,24/09/2026 04:02
 791db5ae-a363-4421-9f32-345c79d7688b,brightness.zip,available,12.98,15.88,high,low,10,namecheap,,,29/09/2026 04:19
+d26bbf5a-692b-41a7-b923-3c2792212019,femur.zip,available,14,,high,low,5,unstoppable,,,01/10/2026 19:33
 dcbc7fa7-28d3-4300-8f49-68b628eb014e,meekly.zip,available,12.98,15.88,medium,low,6,namecheap,,,15/09/2026 01:24
 085bf3ff-dafd-46ce-8fad-0250987307a7,prostyle.zip,available,12.98,15.88,medium,low,8,namecheap,,,09/09/2026 04:01
+d277d98f-db64-4fde-99da-e9827c249154,hardwood.zip,premium,59.2,,high,low,8,unstoppable,,,01/10/2026 19:56
 ff3ee3ac-dd26-4a3c-9ddd-7d931689f27e,fractions.zip,available,15.88,,medium,low,9,namecheap,,,20/09/2026 01:27
 743078de-94fc-4fd0-9819-b9b460f0ccda,pilgrims.zip,available,10.52,10.52,medium,low,8,spaceship,,,29/09/2026 11:05
 a934ef6a-fddd-45c2-a997-5bab02d94bb8,isotopic.zip,available,12.98,15.88,medium,low,8,namecheap,,,22/08/2026 11:26
@@ -90,7 +97,7 @@ f8b2e206-d976-4bd5-a275-7e877b355bdc,sallie.zip,available,10.52,10.52,medium,low
 f64a9074-0638-41a9-9bb7-0ff88cd862ad,beaming.zip,available,12.98,15.88,high,low,7,namecheap,,,09/08/2026 04:03
 4e98e5ff-b69f-40c6-9d48-de9c996c82a0,leadplant.zip,available,12.98,15.88,medium,low,9,namecheap,,,18/09/2026 22:45
 8528be34-5e92-4834-ace9-0c6669b96103,hills.zip,premium,323.7,323.7,high,low,5,namecheap,,,17/09/2026 17:53
-df1845a3-8e72-411f-8bff-5b167886b451,kinder.zip,premium,161.25,,high,medium,6,name.com,,,
+df1845a3-8e72-411f-8bff-5b167886b451,kinder.zip,premium,129.2,,high,medium,6,unstoppable,,,01/10/2026 11:41
 1ca4953a-e92e-452a-835d-96c5ab989802,credendum.zip,available,12.98,15.88,medium,low,9,namecheap,,,20/09/2026 11:13
 bc73f6c5-dab4-4b4b-b321-ee4fc8e1d376,thirdhand.zip,available,12.98,15.88,medium,low,9,namecheap,,,11/09/2026 13:59
 82a588ec-0f91-4290-991e-d45c178a8280,believing.zip,available,12.98,15.88,high,low,9,namecheap,,,23/09/2026 05:15
@@ -103,7 +110,7 @@ f596b3b7-fa60-4c71-91eb-976cd767d690,amend.zip,available,10.52,10.52,high,low,5,
 90bd5b74-898b-412c-a373-449dc35168c0,postpone.zip,available,10.52,10.52,high,low,8,spaceship,,,29/09/2026 08:12
 ea6c47b7-67e2-4c4a-ab4a-98f3e8528fb4,nist.zip,available,10.52,10.52,high,low,4,spaceship,,,29/09/2026 19:44
 d4b9ba05-de00-4bda-83ff-82ce866293c6,stereo.zip,premium,323.7,323.7,high,low,6,namecheap,,,10/09/2026 20:09
-51d9bfff-ff5a-4a51-b4f9-f76628a464dc,youre.zip,premium,36.25,,medium,low,5,name.com,,,
+51d9bfff-ff5a-4a51-b4f9-f76628a464dc,youre.zip,premium,30.22,30.22,medium,low,5,spaceship,,,02/10/2026 04:15
 67638de5-e8be-4c15-8b34-c90cc242bc53,until.zip,premium,141.35,141.35,medium,low,5,porkbun,,,01/10/2026 00:53
 c6b62656-0c3a-46be-9f92-c8d443bfad6c,lxxx.zip,available,12.98,15.88,medium,low,4,namecheap,,,
 cc5db15c-bf56-4684-864e-fe50fe9b6697,roughhewn.zip,available,12.98,15.88,high,medium,9,namecheap,,,09/09/2026 19:00
@@ -115,7 +122,9 @@ f635cbda-a5f2-4001-86f6-40c77ecfcbcb,forrad.zip,available,12.98,15.88,medium,low
 920d8e29-4211-48bb-90a9-61fb141cb46d,ported.zip,available,12.98,15.88,high,low,6,namecheap,,,20/09/2026 15:39
 06cd5823-d2e1-4551-be42-e6d8c29ba346,roi.zip,premium,133.72,133.72,high,low,3,spaceship,,,30/09/2026 10:11
 960fa6f6-acbf-4b3e-b470-e4a6ba994c79,addicts.zip,available,10.81,10.81,medium,low,7,porkbun,,,01/10/2026 00:46
+b19e5e70-93ff-4df5-8ffc-51ea1f3fbe5e,raisin.zip,available,14,,high,low,6,unstoppable,,,01/10/2026 21:26
 d5b7a28e-bc99-47dc-84e8-5ce9a36b7a45,oversewn.zip,available,12.98,15.88,medium,low,8,namecheap,,,04/09/2026 21:48
+200eadd9-a37c-404e-bfed-3d9ca30a402b,lovecraft.zip,available,14,,medium,low,9,unstoppable,,,01/10/2026 23:57
 30c9feff-2810-41d9-bc1c-b96017dd6ed3,hoist.zip,premium,29.2,,high,low,5,unstoppable,,,30/09/2026 01:53
 2cb8cf70-fa44-4c79-b761-13de6bb9bf94,allusive.zip,available,12.98,15.88,medium,low,8,namecheap,,,
 e54f3a1f-9473-424d-976a-8b894888e15c,ignescent.zip,available,12.98,15.88,medium,low,9,namecheap,,,21/08/2026 18:22
@@ -123,6 +132,7 @@ e54f3a1f-9473-424d-976a-8b894888e15c,ignescent.zip,available,12.98,15.88,medium,
 dfc0bd62-920e-4692-91da-9db3bdb80267,beefsteak.zip,available,12.98,15.88,high,low,9,namecheap,,,23/09/2026 01:15
 4f5fd771-2991-4393-b9ac-c1241b5f05d8,fumes.zip,available,14,,high,low,5,unstoppable,,,30/09/2026 01:34
 5deaed05-ccdd-424c-adfd-41c6393ec323,ingrown.zip,available,12.98,15.88,medium,low,7,namecheap,,,22/08/2026 04:56
+18d9dd6d-cb3d-483f-afde-1d3382788648,cluny.zip,available,10.52,10.52,medium,low,5,spaceship,,,02/10/2026 01:14
 6b8c6361-e369-4577-8580-d430f9fcaa31,postoffice.zip,available,15.88,,high,low,11,namecheap,,,
 9b6656fb-e78f-4b5c-9731-b542ffba3999,moments.zip,premium,323.7,323.7,medium,low,7,namecheap,,,25/09/2026 20:25
 ee109b2c-afc3-4f8b-a5dc-4cc8506b5025,thinner.zip,available,10.81,10.81,high,low,7,porkbun,,,29/09/2026 06:40
@@ -144,6 +154,8 @@ c211fc45-3abf-4604-a8d2-892f9dbcc88c,painterly.zip,available,12.98,15.88,medium,
 2247ed6e-65f5-42ce-92e2-1d0e871a81ea,penn.zip,premium,37.7,37.7,high,low,4,namecheap,,,25/09/2026 09:52
 f22af9d1-03d1-415e-b8fe-e6ec85afa53f,gainfully.zip,available,12.98,15.88,medium,low,9,namecheap,,,14/09/2026 20:58
 02ab7ead-c53e-473f-833e-dd93933d5442,danielle.zip,premium,61.27,61.27,medium,low,8,spaceship,,,28/09/2026 08:28
+f706bcc3-79a5-4845-94d7-8d34980ff80b,nests.zip,available,10.52,10.52,medium,low,5,spaceship,,,02/10/2026 02:53
+513b98fa-8f37-424a-966c-3c39f254a2e9,crm.zip,premium,129.2,,high,medium,3,unstoppable,,,01/10/2026 05:32
 a3ae739a-360d-47d6-96f6-91ddd2a46c27,photographer.zip,premium,167.7,167.7,high,low,12,namecheap,,,27/09/2026 06:12
 ddb89ad6-d945-4678-ad97-1eb27e424e73,colourless.zip,available,12.98,15.88,medium,low,10,namecheap,,,12/08/2026 17:55
 da440ac1-8de8-47d9-b7d9-bc9de66f561d,shelvy.zip,available,12.98,15.88,high,medium,6,namecheap,,,09/09/2026 12:30
@@ -194,7 +206,7 @@ dd1ce88b-c528-4442-917c-a301aa64bc10,adjusting.zip,available,10.52,10.52,high,lo
 87b97b84-bf34-400e-b08c-3db7455f004d,vaulting.zip,available,12.98,15.88,high,low,8,namecheap,,,04/09/2026 21:34
 55790fa4-a2fe-4119-8a59-eb1093d142fb,hearable.zip,available,12.98,15.88,medium,low,8,namecheap,,,07/08/2026 16:35
 ab42808f-9363-47b4-8b62-d8a34fb5c0ad,voracious.zip,available,12.98,15.88,medium,low,9,namecheap,,,15/08/2026 06:15
-0382b375-3794-4e7d-897e-b458edf4c669,harold.zip,premium,73.75,,high,low,6,name.com,,,
+0382b375-3794-4e7d-897e-b458edf4c669,harold.zip,premium,61.27,61.27,high,low,6,spaceship,,,01/10/2026 08:34
 ebad3c1b-05c8-469e-a8df-f38f883814be,loamy.zip,available,12.98,15.88,medium,low,5,namecheap,,,24/08/2026 08:15
 de6aca58-8c11-4b7b-847d-0fbdc4ada40e,absence.zip,premium,59.2,,medium,low,7,unstoppable,,,28/09/2026 17:04
 013289e5-7e08-4a61-93a0-0fb067dc4397,wilde.zip,available,12.98,15.88,high,low,5,namecheap,,,25/09/2026 09:39
@@ -205,6 +217,7 @@ bfeea59a-0c88-443b-9a9c-308e60921153,spangly.zip,available,12.98,15.88,medium,lo
 d4affe33-3bec-403f-b7b7-46ceb6357211,lips.zip,premium,161.25,,high,low,4,name.com,,,01/10/2026 00:24
 b9a8a282-9a03-4b99-93e8-9bd1fad41f71,bangles.zip,available,12.98,15.88,medium,low,7,namecheap,,,20/09/2026 19:22
 0ed9f7a5-8123-4f7c-954b-53c30a4a3ec4,fortunately.zip,available,10.52,10.52,high,low,11,spaceship,,,27/09/2026 16:56
+cb36a0c1-a8ef-4f7d-a974-386a819c0491,mansions.zip,available,10.81,10.81,medium,low,8,porkbun,,,01/10/2026 17:28
 9d464832-f288-436a-b837-36ce74b24b78,dispenser.zip,premium,37.7,37.7,high,low,9,namecheap,,,24/09/2026 22:56
 aa01a580-4578-4d60-9bc1-4c9e711f55ba,ounces.zip,available,12.98,15.88,medium,low,6,namecheap,,,16/09/2026 11:16
 378d3146-31e0-45c6-9862-4394b279c937,clams.zip,available,12.98,15.88,high,low,5,namecheap,,,24/09/2026 06:47
@@ -212,7 +225,9 @@ aa01a580-4578-4d60-9bc1-4c9e711f55ba,ounces.zip,available,12.98,15.88,medium,low
 ff8bc356-6ea0-40cf-ba79-c378cee46052,seawards.zip,available,12.98,15.88,medium,low,8,namecheap,,,10/09/2026 01:02
 44cee3e9-1e90-4dce-a536-4c19b16c55d3,creative.zip,premium,133.72,133.72,high,medium,8,spaceship,,,01/10/2026 01:41
 fbb52f78-05b5-4729-9980-947e2abcc4ea,unassisted.zip,available,12.98,15.88,high,medium,10,namecheap,,,10/09/2026 08:26
-e094de4d-5b4e-4b84-a61d-51ae0824d4b0,playfield.zip,available,15.88,,high,low,9,namecheap,,,
+e094de4d-5b4e-4b84-a61d-51ae0824d4b0,playfield.zip,available,10.52,10.52,high,low,9,spaceship,,,02/10/2026 02:59
+5209d9d4-2b6f-40a4-b7d9-9a125132d56f,chloroform.zip,available,10.81,10.81,high,low,10,porkbun,,,02/10/2026 04:21
+a625244a-ef5c-4939-8950-763484ee1adc,hosted.zip,premium,61.27,61.27,medium,low,6,spaceship,,,02/10/2026 02:16
 6381a283-8428-40aa-bff2-07da6495f7ca,screamer.zip,available,12.98,15.88,medium,low,8,namecheap,,,22/09/2026 17:00
 b96254ec-2577-4b52-acd5-a1b3bfaa79b7,accountants.zip,available,12.98,15.88,medium,low,11,namecheap,,,20/09/2026 02:26
 8557f22e-a786-44ec-9816-969e32c67db9,actress.zip,premium,61.27,61.27,high,low,7,spaceship,,,28/09/2026 18:10
@@ -229,6 +244,7 @@ fe965e26-7e8d-4a2e-b511-d5a51410e098,dormant.zip,available,12.98,15.88,high,low,
 0bead257-fd7a-4aa7-a494-413eb8ee7d42,prevalent.zip,available,12.98,15.88,high,medium,9,namecheap,,,09/09/2026 01:28
 17d1d46a-713e-4f72-81e4-5da23dfbb574,adoption.zip,premium,76.7,76.7,high,low,8,namecheap,,,17/09/2026 09:43
 d7b9d333-1187-4442-9044-98d7dc934d21,gabby.zip,available,12.98,15.88,high,low,5,namecheap,,,12/08/2026 03:18
+06ff6ac9-7cca-4346-86e8-37cd694a4ce2,jnr.zip,premium,61.27,61.27,high,low,3,spaceship,,,01/10/2026 20:09
 199b2aaf-c8d9-493e-b1fa-9526f321b326,harnessed.zip,available,12.98,15.88,medium,low,9,namecheap,,,21/08/2026 01:05
 2e4814e7-1187-4a9d-ade2-f5bc742734c2,homebody.zip,available,12.98,15.88,medium,low,8,namecheap,,,10/09/2026 19:28
 5d9a9c70-a281-45da-918a-693c9c40c2d1,bundy.zip,available,10.52,10.52,medium,low,5,spaceship,,,28/09/2026 11:45
@@ -236,12 +252,14 @@ e0dab53a-5d4a-49b5-981b-c311a21199d3,breakthrough.zip,premium,29.2,,high,low,12,
 c6b79639-752c-41ec-b59a-145f3e2d44ba,grouchy.zip,available,12.98,15.88,medium,low,7,namecheap,,,08/08/2026 07:52
 fb0d1e9d-a3e0-4d22-a11a-ae23918aaa1a,safari.zip,premium,61.27,61.27,high,low,6,spaceship,,,29/09/2026 07:19
 d0dfedb9-1acb-44ce-a9e6-aa0e7c3221f7,overbold.zip,available,12.98,15.88,medium,low,8,namecheap,,,04/09/2026 20:21
+bbdf8321-16b2-4c3e-8d79-6205b5b808d2,carp.zip,premium,30.22,30.22,medium,low,4,spaceship,,,01/10/2026 18:55
 79f2a3d2-313b-41ee-ae51-5d4c1b852238,bottles.zip,premium,76.7,76.7,medium,low,7,namecheap,,,18/09/2026 04:05
 47dcf26d-9f62-4afe-8107-3cd081b10f51,fiesta.zip,premium,257.92,257.92,high,low,6,spaceship,,,01/10/2026 02:03
 06640be4-8ede-4e2c-acad-e0340949086e,waxy.zip,available,12.98,15.88,medium,low,4,namecheap,,,09/08/2026 14:13
 af3f3150-d29f-4989-9d72-6317b225fb2f,confront.zip,available,14,,medium,low,8,unstoppable,,,28/09/2026 09:44
 22c4a8fb-8818-4035-8059-6424341d8030,flyer.zip,premium,311.25,311.25,high,low,5,name.com,,,11/08/2026 05:11
 0fc311c3-6ec1-4967-8c88-4af76b1c21e9,campy.zip,available,12.98,15.88,medium,low,5,namecheap,,,11/08/2026 15:48
+7f35ec81-22d9-4362-90ab-d3788e408dc1,overtake.zip,available,10.52,10.52,high,low,8,spaceship,,,01/10/2026 21:12
 36cdc220-ac27-4a48-bb62-1c11dc90cb9d,recipe.zip,premium,1034.17,1034.17,high,low,6,spaceship,,,30/09/2026 09:18
 d1888903-e27e-4522-91d5-e607875951cb,grace.zip,premium,648.7,648.7,high,medium,5,namecheap,,,24/09/2026 21:11
 e65cf7fe-9316-4415-84e3-9fd031c7aae8,edit.zip,premium,516.67,516.67,high,low,4,spaceship,,,29/09/2026 02:42
@@ -267,6 +285,7 @@ aea67433-4b87-41f0-97df-0af21eae4644,mayonnaise.zip,available,10.52,10.52,high,l
 755b9420-bb80-49b1-a79f-3d54f65251c7,wastewater.zip,available,12.98,15.88,medium,low,10,namecheap,,,15/08/2026 15:34
 e47afcdb-ad21-4729-87bf-d72bb9f02e72,habit.zip,premium,167.7,167.7,high,low,5,namecheap,,,25/09/2026 05:00
 c2848f8f-bed2-4ed7-953f-580f98dc5d68,fishermen.zip,available,10.52,10.52,medium,low,9,spaceship,,,29/09/2026 10:38
+094eb9bd-e6cc-49e4-8eaa-f3a35be1d1f1,kitchens.zip,premium,61.27,61.27,medium,low,8,spaceship,,,02/10/2026 03:24
 9aec9030-b89d-46b5-a20c-0e6ef09e1863,neumann.zip,premium,37.7,37.7,high,low,7,namecheap,,,25/09/2026 23:19
 ac016af7-5474-49d2-bf7b-08ea2993045e,bitis.zip,available,12.98,15.88,medium,low,5,namecheap,,,23/09/2026 22:37
 ac39b8bf-ad2e-40f6-9f4a-9f651aea7859,ascendant.zip,available,12.98,15.88,high,low,9,namecheap,,,
@@ -285,6 +304,7 @@ af93e0dd-3ee5-4a17-afec-01ded7455854,adapid.zip,available,12.98,15.88,low,low,6,
 d38cd2c9-abf9-4d2a-be6c-1ecaa0efbca9,latter.zip,premium,37.7,37.7,high,low,6,namecheap,,,25/09/2026 13:08
 2fbf5a1c-2da9-4b07-8a97-2e38a9e5485f,vegetation.zip,available,10.52,10.52,high,low,10,spaceship,,,29/09/2026 11:45
 d9e26e92-7449-4df7-ba22-9c099eb6d466,hunker.zip,available,12.98,15.88,medium,low,6,namecheap,,,10/09/2026 17:39
+937a4d85-0861-46f3-bcef-f8379813c218,protagonist.zip,available,12.98,15.88,high,low,11,namecheap,,,01/10/2026 22:20
 02d9221f-ca01-4abb-aad5-fb9509be2aac,ceremonial.zip,available,12.98,15.88,high,low,10,namecheap,,,19/09/2026 15:03
 ed10dd16-78ae-4c0d-9f0f-13ea9ed7781b,arcus.zip,available,12.98,15.88,high,low,5,namecheap,,,20/09/2026 03:02
 75e03eea-34b5-45ba-95cb-2b4e7c124e4a,bursting.zip,available,10.81,10.81,high,low,8,porkbun,,,30/09/2026 12:02
@@ -298,12 +318,14 @@ c2767bfe-2e94-4bba-b7cf-51dc5a552ea3,trilogy.zip,premium,32.18,32.18,high,low,7,
 d1091997-0563-4bb7-a216-33b05077dc3f,iridium.zip,premium,37.7,37.7,high,low,7,namecheap,,,20/09/2026 23:49
 96813931-a09d-4706-9c3d-a457bc3ed641,unshaved.zip,available,12.98,15.88,medium,low,8,namecheap,,,12/09/2026 19:42
 36ddd2c6-22d1-4a80-ac12-ef761ff3b091,unblinking.zip,available,12.98,15.88,medium,low,10,namecheap,,,12/09/2026 02:16
+e6c324f0-f164-4427-852b-8811352973ba,biologically.zip,available,10.52,10.52,medium,low,12,spaceship,,,01/10/2026 14:07
 c2621745-a98f-472b-b964-a2d43a62d2b7,appliances.zip,premium,59.2,,medium,low,10,unstoppable,,,30/09/2026 14:41
 a0c0f49c-59bc-4410-a0c6-9e06867b377a,eudaimonia.zip,available,12.98,15.88,high,low,10,namecheap,,,12/09/2026 23:00
 9b41ad02-7046-45ca-99df-439137a44426,almost.zip,premium,167.7,167.7,high,low,6,namecheap,,,28/09/2026 11:54
 82b2814c-d300-4ffb-9af0-161d0cb1767e,dom.zip,premium,133.72,133.72,high,medium,3,spaceship,,,28/09/2026 07:01
 c5d792b3-5d77-48c9-8d1a-fa10e5b719e5,evangeline.zip,available,10.52,10.52,high,low,10,spaceship,,,30/09/2026 21:10
 b26ac1bf-2140-4a7a-a363-859cf107f731,scanning.zip,premium,30.22,30.22,medium,low,8,spaceship,,,28/09/2026 15:18
+3b7c6c85-45ad-4418-b3fd-8c67e70ac416,belvoir.zip,available,10.52,10.52,medium,low,7,spaceship,,,01/10/2026 23:55
 63699b79-839f-47aa-bc9e-7801d7293301,deciders.zip,available,16.99,18.99,medium,low,8,name.com,,,20/09/2026 23:38
 40022bb4-f9ea-4e29-b349-5b71106c8705,untalented.zip,available,12.98,15.88,medium,low,10,namecheap,,,11/09/2026 07:26
 7d0e8883-14b8-460f-96ad-061af1bc3a70,razor.zip,premium,61.27,61.27,high,low,5,spaceship,,,30/09/2026 09:10
@@ -311,6 +333,7 @@ b26ac1bf-2140-4a7a-a363-859cf107f731,scanning.zip,premium,30.22,30.22,medium,low
 57f1c072-5035-4da7-8934-ee0202472bdf,tonsorial.zip,available,12.98,15.88,medium,low,9,namecheap,,,11/09/2026 17:12
 12c26423-93df-4771-a4bf-2817a7701541,alarmed.zip,available,12.98,15.88,medium,low,7,namecheap,,,
 64e59b2b-3f74-40be-a442-918c96741202,disruptive.zip,available,14,15.88,medium,low,10,unstoppable,,,28/09/2026 07:50
+d484212a-57ac-4b08-a77b-7ff143f8b4ff,resin.zip,premium,30.22,30.22,high,low,5,spaceship,,,01/10/2026 21:32
 2352adea-f7e2-4b02-9cc3-3bb538b42c2d,uptight.zip,available,12.98,15.88,medium,low,7,namecheap,,,15/08/2026 09:30
 1020d258-3196-4bcf-9a38-98fb48976222,happiness.zip,premium,499.2,,high,low,9,unstoppable,,,29/09/2026 22:08
 11146ba8-7c9f-4c4f-b586-b75cb85a9fc7,kokka.zip,available,12.98,15.88,medium,low,5,namecheap,,,08/09/2026 07:02
@@ -335,11 +358,13 @@ db60c553-fc1e-49cb-9946-dbc60839d402,cupboard.zip,available,12.98,15.88,high,low
 9bec5403-76e2-4184-b520-6db97350aa1c,passport.zip,premium,167.7,167.7,high,low,8,namecheap,,,27/09/2026 04:57
 5f4a03d5-5237-4516-a3bc-585c05e24ea3,squirrel.zip,premium,61.27,61.27,high,low,8,spaceship,,,30/09/2026 11:45
 519bae11-68af-4d46-9ebe-258c02343445,brad.zip,premium,167.7,167.7,high,low,4,namecheap,,,24/09/2026 07:52
+b78c14a8-840d-44b9-8cb1-fb48118ea55c,countrymen.zip,available,10.52,10.52,medium,low,10,spaceship,,,01/10/2026 16:35
 73557838-9d3b-4fd1-9ef3-c52e027a979a,anticipate.zip,available,14,,high,low,10,unstoppable,,,30/09/2026 15:05
 3d15ced8-8336-41e9-ae0f-a47987ed0708,winnebago.zip,available,10.81,10.81,high,low,9,porkbun,,,29/09/2026 14:09
 0699d701-a4a5-44f5-a94d-471dad47dfcc,axial.zip,premium,76.7,76.7,high,low,5,namecheap,,,22/09/2026 15:33
 d63b2c23-6d80-4a3a-b9d6-1709e138c4f3,duane.zip,available,10.52,10.52,medium,low,5,spaceship,,,27/09/2026 19:56
 23af9db8-d19a-49cc-bb8b-67d456ce3406,penalty.zip,premium,37.7,37.7,high,low,7,namecheap,,,27/09/2026 04:58
+87fd7cf9-8090-4ec1-9559-360d1d5f725c,brampton.zip,available,14,,medium,low,8,unstoppable,,,01/10/2026 11:20
 65ce3936-b188-4e55-8c38-08d6ffdada44,shaken.zip,available,12.98,15.88,high,low,6,namecheap,,,10/09/2026 05:44
 1672d04c-1087-4cc3-8e8b-6394d2f768d1,sausage.zip,premium,29.2,,high,low,7,unstoppable,,,30/09/2026 10:39
 b829054e-74a7-4c4b-8d72-05ad691ed9cf,unnerved.zip,available,12.98,15.88,medium,low,8,namecheap,,,12/09/2026 15:54
@@ -348,7 +373,8 @@ b829054e-74a7-4c4b-8d72-05ad691ed9cf,unnerved.zip,available,12.98,15.88,medium,l
 b1d82720-da44-4537-9742-75c62be29059,sticky.zip,premium,311.25,311.25,high,low,6,name.com,,,16/08/2026 07:55
 7808e73f-d14a-4bae-82f4-0dfc2036a502,billions.zip,available,14,,medium,low,8,unstoppable,,,29/09/2026 06:04
 8750af4e-c717-4bba-8346-4c65ccf6c4de,seriously.zip,premium,30.22,30.22,medium,low,9,spaceship,,,28/09/2026 13:17
-d884a0cc-4a1f-440c-a6fb-b7e071bf9220,distinguished.zip,available,15.88,,high,low,13,namecheap,,,
+aec53c76-6d75-4530-93de-f8bbb932952e,nagpur.zip,available,14,,medium,low,6,unstoppable,,,01/10/2026 10:00
+d884a0cc-4a1f-440c-a6fb-b7e071bf9220,distinguished.zip,available,10.52,10.52,high,low,13,spaceship,,,01/10/2026 19:21
 e0a95bee-16e2-4c8c-9d26-9346de8aec48,pliability.zip,available,12.98,15.88,medium,low,10,namecheap,,,23/09/2026 07:42
 4369b693-37c5-46fe-8faa-a8b9749f5f5a,clouded.zip,available,12.98,15.88,medium,low,7,namecheap,,,12/08/2026 12:27
 8bad5254-1f14-46be-9ce4-a4daf882a992,fetal.zip,available,12.98,15.88,high,low,5,namecheap,,,18/08/2026 02:16
@@ -364,6 +390,7 @@ dc40e2d2-0beb-4130-91f6-8973f8b23639,titanium.zip,premium,167.7,167.7,high,low,8
 d90c18d9-7ea6-40d4-b798-d0459b2276ac,snatch.zip,premium,37.7,37.7,high,low,6,namecheap,,,19/09/2026 14:54
 bc8cf2d2-4983-4a74-a798-c3ccf2c54a1f,artois.zip,available,12.98,15.88,medium,low,6,namecheap,,,20/09/2026 12:02
 5261b4ae-9ca8-42ba-8d1f-6a6418dba164,alca.zip,premium,36.25,36.25,high,low,4,name.com,,,18/09/2026 03:36
+a37b21b6-faf6-4af1-8ee3-04ef34e483b4,variational.zip,available,10.81,10.81,high,low,11,porkbun,,,01/10/2026 06:35
 18135d06-f061-4877-a8e7-ffafe2f3e6ea,hudson.zip,premium,323.7,323.7,high,medium,6,namecheap,,,27/09/2026 04:25
 6c69bad5-c80d-4d15-912d-f925e5093dde,analogy.zip,available,10.52,10.52,high,low,7,spaceship,,,28/09/2026 21:11
 a4ca003b-11dc-4401-9828-d299d790e487,replay.zip,premium,323.7,323.7,high,low,6,namecheap,,,17/09/2026 05:07
@@ -380,12 +407,14 @@ cff250a9-530f-49ff-a1b8-68565861013e,hee.zip,premium,64.93,64.93,high,low,3,pork
 a1e99e04-bc51-4757-b642-b781e5984fee,profitless.zip,available,12.98,15.88,medium,low,10,namecheap,,,09/09/2026 02:50
 b6d4dcfb-f5cb-4ab5-bec4-41c27432f111,sonant.zip,available,12.98,15.88,medium,low,6,namecheap,,,10/09/2026 14:08
 dff86716-74bd-4ae8-b706-dfb84313035d,vendible.zip,available,12.98,15.88,medium,low,8,namecheap,,,24/08/2026 20:32
+c8b7ff6a-c900-4a69-b14e-fdc69e6ab022,liars.zip,available,10.52,10.52,medium,low,5,spaceship,,,01/10/2026 17:54
 09b64f41-9222-4839-a5bc-0fcd6546f238,carefully.zip,available,14,,medium,low,9,unstoppable,,,28/09/2026 13:46
 d329d45e-7d5c-4eaf-a89c-b535d5191599,swansea.zip,premium,30.22,30.22,medium,low,7,spaceship,,,28/09/2026 10:58
 a817532b-80a3-4d71-b425-2ed4cd7ffbc9,hirsch.zip,premium,37.7,37.7,high,low,6,namecheap,,,27/09/2026 07:27
 c7649bb1-d08f-4dbd-863a-c21b5383f0cd,barony.zip,available,12.98,15.88,medium,low,6,namecheap,,,22/09/2026 07:36
 5d6c072f-3639-42a7-aa3d-59c9901fd8fb,sketch.zip,premium,,,high,low,6,,,,28/09/2026 01:36
 7f813015-ecdd-4f5f-9f7a-888316015e34,intervals.zip,available,10.52,10.52,medium,low,9,spaceship,,,29/09/2026 23:54
+05d53793-71d3-4195-a001-ce487a2e39f0,dutchman.zip,available,14,,high,low,8,unstoppable,,,02/10/2026 04:39
 f9c01c09-4f60-4597-9a5f-ed3e1db65212,coded.zip,premium,61.27,61.27,high,low,5,spaceship,,,30/09/2026 04:05
 573fbcae-e333-405c-9c7d-957ba5941afb,strawberry.zip,premium,61.27,61.27,high,low,10,spaceship,,,29/09/2026 22:40
 59a10870-9094-41b2-8002-09b75f328c65,gale.zip,premium,30.22,30.22,high,low,4,spaceship,,,29/09/2026 07:02
@@ -403,10 +432,12 @@ f4b67f09-1693-4e07-998d-b98d27d4ac6c,aphelion.zip,available,12.98,15.88,medium,l
 374f1fbe-4b2a-4951-9692-24e39b94a655,benne.zip,available,12.98,15.88,medium,low,5,namecheap,,,23/09/2026 08:27
 24850422-cbcd-4363-b5e7-baffdf7d31df,quint.zip,available,12.98,15.88,medium,low,5,namecheap,,,
 c829315b-d871-4b20-9627-4c617cb3dd9f,swindle.zip,available,12.98,15.88,medium,low,7,namecheap,,,14/09/2026 07:52
+156ac1de-6684-441d-9682-ed405d737837,decipher.zip,available,10.52,10.52,high,low,8,spaceship,,,01/10/2026 22:11
 78e88d0d-9ba8-48f3-a1eb-84f180eb6fb2,gott.zip,premium,30.22,30.22,medium,low,4,spaceship,,,30/09/2026 04:43
 5dc84d37-3f25-48b5-a34c-197c7d61c414,limbo.zip,premium,29.2,,high,low,5,unstoppable,,,29/09/2026 19:33
 679eab54-fb20-4e58-b33b-03c36c4acbce,conclude.zip,available,14,,high,low,8,unstoppable,,,28/09/2026 10:47
 7e1029d1-68fc-4b9c-8a93-bc74fa42edca,caloric.zip,available,12.98,15.88,medium,low,7,namecheap,,,11/08/2026 15:07
+6e0bd4bc-565c-4f4a-821b-fc178478d8dc,cuny.zip,available,14,,medium,low,4,unstoppable,,,01/10/2026 06:47
 fdb90526-a033-410a-8cd4-dce1f2637b88,triggered.zip,available,10.52,10.52,medium,low,9,spaceship,,,29/09/2026 05:24
 a5442503-0337-48e1-84d9-de0bb1787e02,spiteful.zip,available,12.98,15.88,medium,low,8,namecheap,,,14/08/2026 04:20
 194b2cd3-6b99-4d87-a8bd-c23e3bd8c9be,windblown.zip,available,12.98,15.88,medium,low,9,namecheap,,,13/09/2026 12:08
@@ -414,10 +445,12 @@ a5442503-0337-48e1-84d9-de0bb1787e02,spiteful.zip,available,12.98,15.88,medium,l
 941b1c1f-ee33-4a5b-acc1-315190d351e2,postmodern.zip,available,12.98,15.88,high,low,10,namecheap,,,09/09/2026 00:29
 e4379cd9-16ee-4bdf-954e-8e4b7a7d9320,mohamed.zip,premium,30.22,30.22,medium,low,7,spaceship,,,28/09/2026 04:07
 9024c380-0395-4824-8e27-e7e7832f4420,modifiable.zip,available,12.98,15.88,medium,low,10,namecheap,,,25/08/2026 03:12
+e315fb14-435f-46ab-9674-2e1f557ae9a6,isc.zip,premium,59.2,,high,low,3,unstoppable,,,02/10/2026 01:14
 cfba27e9-0a0c-4a1b-8ca3-7aaf8dedce30,decease.zip,available,12.98,15.88,medium,low,7,namecheap,,,24/09/2026 19:36
 47213303-eb4a-4a1a-86f4-4a6c3efb6ef2,choirs.zip,available,12.98,15.88,medium,low,6,namecheap,,,17/09/2026 06:51
 01f6d703-3660-478d-ac88-2387f2a3186e,humid.zip,available,12.98,15.88,high,low,5,namecheap,,,21/08/2026 15:17
 13f227e4-1f5d-4da4-bb24-e6ef68392c01,dba.zip,premium,59.2,,high,low,3,unstoppable,,,30/09/2026 01:16
+eeeeb09f-081d-43a5-b67f-34c9a1a9e3ff,lobes.zip,available,10.52,10.52,medium,low,5,spaceship,,,01/10/2026 17:10
 f88f9be1-2355-4c31-b8ed-016cd1a98bb6,dedication.zip,available,12.98,15.88,high,low,10,namecheap,,,18/09/2026 10:32
 396e2ae4-514c-4607-9da6-904269b866dc,apathetic.zip,available,12.98,15.88,medium,low,9,namecheap,,,05/08/2026 22:04
 c13b037d-cf0d-4244-9231-18062495d73b,armoury.zip,available,12.98,15.88,high,low,7,namecheap,,,20/09/2026 07:33
@@ -436,6 +469,7 @@ e082abdc-d446-4854-8f56-754dcb9d8820,rocklike.zip,available,12.98,15.88,medium,l
 99fd6fb7-636e-44f2-8bc4-cfbebc1e2644,redhead.zip,premium,76.7,76.7,high,low,7,namecheap,,,21/09/2026 10:48
 effab337-89c1-4c33-abd0-f5264696c0d0,harding.zip,available,10.52,10.52,medium,low,7,spaceship,,,28/09/2026 19:24
 8106dfbb-5ac5-42b5-999d-8364e4ec70bf,incredible.zip,premium,76.7,76.7,high,low,10,namecheap,,,25/09/2026 09:04
+06fffb99-63b6-4020-a7de-6d7c51820f07,montmorency.zip,available,12.98,15.88,medium,low,11,namecheap,,,02/10/2026 01:08
 5b89e206-3128-4570-afda-89cf7ef379ff,thankfully.zip,available,16.99,18.99,high,low,10,name.com,,,16/09/2026 08:28
 29421349-b87b-4736-a639-cda48b0d1157,willingness.zip,available,15.88,,high,low,11,namecheap,,,
 0ef6b7ca-aaa4-4858-a2b8-998e36a55dd4,rectangle.zip,available,14,,high,low,9,unstoppable,,,30/09/2026 09:22
@@ -475,6 +509,7 @@ cc0e082b-0175-4237-8660-aec3c1a91f31,transcripts.zip,available,10.52,10.52,high,
 7e4bcb16-c2ac-410d-92a3-8ec360ee9326,sweetest.zip,available,12.98,15.88,medium,low,8,namecheap,,,30/09/2026 15:05
 36f08305-01ce-4fe7-8c00-a4f0e8fcf616,prophetic.zip,available,12.98,15.88,high,low,9,namecheap,,,09/09/2026 03:36
 ebf894f2-31f3-42ab-834f-a824225aab3c,newsstand.zip,available,16.99,18.99,medium,low,10,name.com,,,17/09/2026 05:46
+37d1c60e-c188-4701-a97d-2a73cf1fa437,dall.zip,available,14,,medium,low,4,unstoppable,,,01/10/2026 05:50
 31af99ac-5337-4946-9eac-68a42c72b7bf,honourable.zip,available,12.98,15.88,high,low,10,namecheap,,,21/08/2026 13:34
 f7f86639-b23f-468c-a0b4-a094428d8853,renunciant.zip,available,12.98,15.88,medium,low,10,namecheap,,,09/09/2026 14:23
 a13df7d3-3812-40e4-bba0-e55d3c67021b,thawed.zip,available,12.98,15.88,medium,low,6,namecheap,,,11/09/2026 12:31
@@ -493,14 +528,14 @@ f74e8aea-edd7-48a7-b7ae-2fd6e2477176,prentiss.zip,available,10.52,10.52,medium,l
 18f994e4-c300-4c84-9604-b8e775041003,prepared.zip,premium,76.7,76.7,high,low,8,namecheap,,,24/09/2026 11:20
 76c30738-de4a-4a01-b067-e0f7241f7dda,altace.zip,available,12.98,15.88,medium,low,6,namecheap,,,18/09/2026 14:31
 fb01ee9c-ca24-41b0-8099-a861810fdc60,randomized.zip,available,12.98,15.88,high,medium,10,namecheap,,,09/09/2026 10:14
-4af45764-5e26-4bb6-8bff-9656ec0e0ea0,mmr.zip,premium,73.75,,high,low,3,name.com,,,
+4af45764-5e26-4bb6-8bff-9656ec0e0ea0,mmr.zip,premium,61.27,61.27,high,low,3,spaceship,,,02/10/2026 03:24
 defdc43c-653e-4022-91e8-e98f6d3a8bf1,blooming.zip,premium,36.25,36.25,high,low,8,name.com,,,10/08/2026 15:27
 95f1392b-2399-4e52-a2e4-0541bfe4bae3,gideon.zip,available,10.52,10.52,high,low,6,spaceship,,,28/09/2026 16:03
 84f3c377-5a1a-416b-8112-84fae05fa4c8,calendric.zip,available,12.98,15.88,medium,low,9,namecheap,,,11/08/2026 14:14
 534bbfae-9e29-476e-8952-0ec27c7874be,ungodly.zip,available,12.98,15.88,medium,low,7,namecheap,,,22/08/2026 05:29
 4b6ed8cd-94c7-422f-a4bf-a4965e0afaa4,homelike.zip,available,12.98,15.88,high,low,8,namecheap,,,21/08/2026 11:03
 983354dd-be79-4914-90e8-4f8b90052fc8,corregidor.zip,available,16.99,18.99,medium,low,10,name.com,,,22/09/2026 13:13
-8ef36a6e-5d38-4c56-8fb8-93a7c7c93b58,experimental.zip,premium,36.25,,high,low,12,name.com,,,
+8ef36a6e-5d38-4c56-8fb8-93a7c7c93b58,experimental.zip,premium,30.22,30.22,high,low,12,spaceship,,,01/10/2026 06:24
 78d8b7c9-47b8-4bc7-8b77-ebf9e8e6a101,saucy.zip,premium,36.25,36.25,high,low,5,name.com,,,21/08/2026 22:17
 af8113ce-c518-429c-8e1e-656f288ff227,followers.zip,premium,73.75,73.75,high,low,9,name.com,,,18/08/2026 10:24
 6b7834be-9b39-409f-9a32-2d2aa7a52ab8,custard.zip,available,12.98,15.88,high,low,7,namecheap,,,24/09/2026 20:38
@@ -527,7 +562,7 @@ fd9ae7c4-c302-4d57-871f-f9f50f3544f5,bedhead.zip,available,15.88,,medium,low,8,n
 7f62f406-b467-4e4b-aaad-9cf8aafc69e4,stringy.zip,available,12.98,15.88,high,medium,7,namecheap,,,10/09/2026 08:17
 b6e8e8c0-bc58-42ee-b233-7bf0feb48b82,brabant.zip,available,14,,high,low,7,unstoppable,,,29/09/2026 08:28
 7e6608fd-1771-44d4-bd9e-b52443ae204f,apostate.zip,available,12.98,15.88,medium,low,8,namecheap,,,06/08/2026 03:35
-b78d9f2c-da94-4b5d-8e84-371cb7a826a6,subtropical.zip,available,14,,medium,low,11,unstoppable,,,28/09/2026 11:31
+b78d9f2c-da94-4b5d-8e84-371cb7a826a6,subtropical.zip,available,12.98,15.88,medium,low,11,namecheap,,,01/10/2026 16:02
 0da7df1e-86a6-40a3-86c1-c6ce322f7fc0,defining.zip,available,12.98,15.88,high,low,8,namecheap,,,10/09/2026 06:00
 d9b11804-1e29-4203-bf7a-7a747d446b17,aruru.zip,available,12.98,15.88,medium,low,5,namecheap,,,20/09/2026 12:26
 f072e428-8b5f-4ef6-b510-791fc00a17f1,hearings.zip,available,10.52,10.52,medium,low,8,spaceship,,,29/09/2026 23:58
@@ -539,6 +574,7 @@ d230789c-5cb5-4e26-b691-bb800a019875,urine.zip,premium,30.22,30.22,high,low,5,sp
 bad0331a-d3c8-49fa-a670-3c3ba36add80,alternative.zip,available,,,high,low,11,,,,26/09/2026 00:42
 ee99191e-542a-43d8-8a93-5be08621732b,generates.zip,available,12.98,15.88,medium,low,9,namecheap,,,08/09/2026 05:16
 4d247330-a470-4745-9d8c-95b24bd3d2f4,nafud.zip,available,12.98,15.88,medium,low,5,namecheap,,,19/09/2026 00:44
+4cb9b079-8de9-4039-8a8c-1269870afc8c,andrus.zip,available,10.81,10.81,medium,low,6,porkbun,,,02/10/2026 01:31
 ad3f9611-0fe7-4971-9a4d-d9ca5970c750,unfathomed.zip,available,12.98,15.88,medium,low,10,namecheap,,,12/09/2026 09:57
 eac53919-0b46-4250-9e31-e84d1addc779,cpu.zip,premium,648.7,648.7,high,low,3,namecheap,,,24/09/2026 11:27
 6e7a4c44-681f-475f-beb4-6e1e72d7f33d,columnar.zip,available,12.98,15.88,medium,low,8,namecheap,,,12/08/2026 18:14
@@ -551,11 +587,13 @@ eac53919-0b46-4250-9e31-e84d1addc779,cpu.zip,premium,648.7,648.7,high,low,3,name
 c807ffb6-97f8-493f-885e-4066fc84b9b2,vowel.zip,available,14,,high,low,5,unstoppable,,,29/09/2026 20:36
 b541fe49-4e1f-466b-b296-7b02cc046a94,omdurman.zip,available,12.98,15.88,medium,low,8,namecheap,,,22/09/2026 15:32
 a01f0246-1a18-4a8d-b30f-74d2004c6267,bioscience.zip,available,12.98,15.88,high,low,10,namecheap,,,23/09/2026 18:59
+2518339b-c9a3-4cd8-959a-144870486853,populus.zip,available,12.98,15.88,high,low,7,namecheap,,,01/10/2026 19:46
 9381a8a9-6b98-47b5-b1fb-861905f2ff9b,lawyers.zip,premium,167.7,167.7,medium,low,7,namecheap,,,25/09/2026 20:58
 1f1ddb38-e8e8-489a-a890-a3365162ab1f,glaswegian.zip,available,12.98,15.88,medium,low,10,namecheap,,,20/08/2026 14:14
 a0d159cb-0165-468b-b063-f519589818d7,dalliance.zip,available,12.98,15.88,medium,low,9,namecheap,,,11/09/2026 19:38
 d6f5d8a0-0dc2-4cca-842f-ba227e8faa20,asia.zip,premium,516.67,516.67,high,low,4,spaceship,,,28/09/2026 22:29
 7182445e-478a-4bdc-b175-48286bfc1ae3,ninth.zip,premium,36.25,36.25,high,low,5,name.com,,,
+1a20f498-4d86-4d87-a75d-38daedca1f77,stench.zip,available,10.52,10.52,medium,low,6,spaceship,,,02/10/2026 04:49
 e0efb1b7-28c8-4cc2-8834-1f3ffbbe2403,brethren.zip,available,12.98,15.88,high,low,8,namecheap,,,30/09/2026 00:52
 7b560985-4943-430d-b825-b8478b05a4a7,insecure.zip,premium,36.25,36.25,high,low,8,name.com,,,22/08/2026 06:42
 797807e4-3197-4805-8a2a-4b3667aa8e39,leukaemia.zip,available,12.98,15.88,medium,low,9,namecheap,,,24/09/2026 11:59
@@ -574,6 +612,7 @@ b86134f5-766e-4a72-897a-32264822f07c,rating.zip,premium,272.35,272.35,high,low,6
 b36ae6ba-09e7-4fdf-8438-950c73b34524,neutered.zip,available,12.98,15.88,medium,low,8,namecheap,,,03/09/2026 16:35
 fce82e27-9026-4ff5-8af6-15bb7db061f0,midlothian.zip,available,10.52,10.52,medium,low,10,spaceship,,,30/09/2026 21:02
 37fe1815-5f97-41ba-af0f-49a8c8ad2e04,captain.zip,premium,129.2,,high,low,7,unstoppable,,,29/09/2026 07:28
+fdd61c40-4bcd-48d7-9330-b6046660a7af,roadway.zip,available,14,,high,low,7,unstoppable,,,01/10/2026 21:33
 7bd39683-c997-407c-8db7-db427465ea2a,ifa.zip,premium,61.27,61.27,high,low,3,spaceship,,,30/09/2026 04:19
 f9342a4b-3120-48a8-8594-1cb97a5074b7,bicentric.zip,available,12.98,15.88,medium,low,9,namecheap,,,09/08/2026 19:09
 c3ff5dd5-3a37-4948-9d3c-93f98c24c7da,sensibility.zip,available,10.81,10.81,high,low,11,porkbun,,,30/09/2026 22:27
@@ -605,7 +644,9 @@ d054371a-a74c-47a6-ac78-6b22d896740b,coexisting.zip,available,12.98,15.88,medium
 582f84d6-cc88-478d-b918-4975e0837e46,rebuild.zip,premium,30.22,30.22,high,low,7,spaceship,,,28/09/2026 06:58
 22551709-1f6a-4c3d-9326-adceba056611,swore.zip,available,14,,medium,low,5,unstoppable,,,28/09/2026 04:28
 8aa32c59-f23e-4431-8ec7-e518f6e8b33a,septenary.zip,available,12.98,15.88,medium,low,9,namecheap,,,
+8ea3073d-8971-48a9-b14b-ad0b93b8872f,overflowing.zip,available,10.52,10.52,high,low,11,spaceship,,,01/10/2026 05:59
 52280338-206a-40cc-af95-19eda2d2fa89,eyes.zip,premium,257.92,257.92,high,low,4,spaceship,,,29/09/2026 18:46
+8008d21a-13bb-4819-abfe-4ae373ac862c,conveyor.zip,available,14,,high,low,8,unstoppable,,,02/10/2026 04:26
 96eeaf76-6039-4f47-98fd-bfbeb7af4c8e,documental.zip,available,12.98,15.88,medium,low,10,namecheap,,,14/08/2026 14:27
 6f8da387-5eaa-495d-822e-d90aaf8a1de7,argive.zip,available,12.98,15.88,medium,low,6,namecheap,,,06/08/2026 18:27
 9fd4b36a-3cd2-4627-98eb-7a01b2664b41,buckingham.zip,available,12.98,15.88,high,low,10,namecheap,,,25/09/2026 12:25
@@ -613,10 +654,12 @@ a3b5873f-27b8-43b2-a818-7c450f351c12,shuffle.zip,premium,30.22,30.22,high,low,7,
 f402fe77-6f33-40ed-ae2b-9a32082c5661,cactus.zip,premium,648.7,648.7,high,low,6,namecheap,,,24/09/2026 11:36
 d8df8d8f-b045-4882-8e85-52a549563511,clxxv.zip,available,12.98,15.88,medium,low,5,namecheap,,,
 6c91954b-cfae-44dc-815c-6b47d2a7e860,eyrie.zip,available,12.98,15.88,high,low,5,namecheap,,,
+2021fa44-f47e-4faa-a6b9-ece7a27e9c55,xerxes.zip,available,10.52,10.52,medium,low,6,spaceship,,,01/10/2026 16:35
 a0ad6349-35e6-439f-8553-97d3ae75ce10,running.zip,premium,257.92,257.92,high,low,7,spaceship,,,27/09/2026 17:05
 7057f45c-0843-49b5-8d14-fb797670a670,islands.zip,premium,161.25,,high,low,7,name.com,,,
 f67aa283-52ff-47aa-9b19-722c7d653cc1,auditive.zip,available,12.98,15.88,medium,low,8,namecheap,,,07/08/2026 16:49
 dbe62a75-eded-410e-85d3-c06f79b6d670,heroism.zip,available,10.52,10.52,high,low,7,spaceship,,,29/09/2026 18:59
+da1534e7-a36b-4ec6-af4e-b0b96de1e5e7,borneo.zip,premium,30.22,30.22,medium,low,6,spaceship,,,01/10/2026 18:45
 13c5df0e-f27a-4704-9946-d8b06b3e02c8,fatso.zip,available,12.98,15.88,medium,low,5,namecheap,,,17/08/2026 23:54
 f2af8a81-ca24-4a85-9c0c-2aecb0b14fa1,herzegovina.zip,available,12.98,15.88,medium,low,11,namecheap,,,27/09/2026 18:47
 d5c403c7-5167-42d1-9441-45bff789d5d0,doj.zip,premium,61.27,61.27,medium,low,3,spaceship,,,29/09/2026 12:03
@@ -630,9 +673,12 @@ a368f1f9-a33d-4495-b68f-9cbdfde0fcb0,infective.zip,available,12.98,15.88,medium,
 b63ade1d-8a89-450d-b94f-c764e3db81b7,zaire.zip,available,12.98,15.88,high,medium,5,namecheap,,,23/09/2026 04:58
 866bfa92-5b2f-4e98-934e-b9f6a84f0296,various.zip,premium,141.35,141.35,high,low,7,porkbun,,,28/09/2026 10:11
 de8dfb4c-70bd-4897-9e99-bff8f5bbaa1c,bellamy.zip,available,10.52,10.52,medium,low,7,spaceship,,,28/09/2026 12:15
+f8e1eb5f-10ef-4d38-9a2f-2ea549ef4c92,rainforest.zip,premium,29.2,,high,low,10,unstoppable,,,01/10/2026 21:25
 7a9625de-61be-4aa1-b601-8b23260feb58,hua.zip,premium,76.7,76.7,high,low,3,namecheap,,,18/09/2026 01:18
+b4ce80f3-45d1-4694-8d09-51af192344a8,snowfall.zip,available,12.98,15.88,high,low,8,namecheap,,,01/10/2026 21:44
 293d0095-cfda-4231-b686-57af39977080,activation.zip,premium,36.25,36.25,high,low,10,name.com,,,
 508d8ea0-14f9-48f6-8e33-3fe4e6639c13,give.zip,premium,545.26,545.26,high,low,4,porkbun,,,29/09/2026 07:45
+5639b9a3-b3f9-46ce-bd79-97c154f7bcf3,issn.zip,available,14,,high,low,4,unstoppable,,,01/10/2026 07:15
 3e7eb268-5935-4806-94df-8df613842051,lagoon.zip,premium,59.2,,high,low,6,unstoppable,,,29/09/2026 07:27
 20ed679e-b168-419c-876a-b61b8399bba2,knock.zip,premium,167.7,167.7,high,low,5,namecheap,,,27/09/2026 03:49
 99a846dd-8a13-4ffa-9fb0-dfeca9ee7285,strindberg.zip,available,12.98,15.88,medium,low,10,namecheap,,,21/09/2026 03:49
@@ -658,17 +704,21 @@ f77598f4-f7b2-4857-8e5e-8d148299e08e,beignet.zip,available,12.98,15.88,medium,lo
 32691b77-c29c-4c60-8da1-2d68d432f4c9,vehicular.zip,available,12.98,15.88,medium,low,9,namecheap,,,13/09/2026 01:48
 45c8db89-9c3d-40d8-adfa-20d7aafc399a,springfield.zip,premium,29.2,,high,low,11,unstoppable,,,29/09/2026 22:00
 cc15f93f-a5ea-4f01-8e77-433063f28e05,beloit.zip,available,12.98,15.88,medium,low,6,namecheap,,,29/09/2026 22:33
+31549a93-9cba-4190-869c-31c9eccbbdc6,crumble.zip,available,10.81,10.81,high,low,7,porkbun,,,01/10/2026 22:10
 9cc9aaab-fd10-40a8-bc69-bb86e2bed34f,washes.zip,available,12.98,15.88,medium,low,6,namecheap,,,20/09/2026 04:54
 20c9c9a1-35aa-411a-ad0e-f4a0e60b4174,zheng.zip,premium,59.2,,medium,low,5,unstoppable,,,28/09/2026 11:37
+c4fee678-ba8a-4772-b130-5661bd7e50a1,mercado.zip,premium,167.7,167.7,high,low,7,namecheap,,,01/10/2026 11:41
 a8ded4bc-a114-47d8-b777-35092bf0ef4a,olaf.zip,premium,29.2,,medium,low,4,unstoppable,,,28/09/2026 07:48
-83e66a9e-f23a-48c5-b2bc-408070eac0b2,sensational.zip,available,15.88,,high,low,11,namecheap,,,
+83e66a9e-f23a-48c5-b2bc-408070eac0b2,sensational.zip,available,10.52,10.52,high,low,11,spaceship,,,01/10/2026 19:37
 4bf27dc7-8614-4251-ab9f-0072abfccf13,aluminate.zip,available,12.98,15.88,medium,low,9,namecheap,,,18/09/2026 15:13
 22458a81-923a-48be-9483-f632217660bf,specialize.zip,available,10.52,10.52,high,low,10,spaceship,,,29/09/2026 14:15
 5921fa26-e367-4ab7-9d16-fc05eb8cda0c,emeritus.zip,available,12.98,15.88,high,low,8,namecheap,,,16/08/2026 15:05
 acaec8b2-738c-4995-a471-3ad3a6566301,precambrian.zip,available,10.52,10.52,medium,low,11,spaceship,,,29/09/2026 04:02
 c0e9a071-37cb-4ff2-9bc6-c7f62014b8ca,elsa.zip,premium,61.27,61.27,high,low,4,spaceship,,,28/09/2026 08:37
 7bdf8fed-e8b4-4e77-92db-eb04cedcca65,safe.zip,premium,516.67,516.67,high,medium,4,spaceship,,,27/09/2026 17:44
+da04162e-6497-466b-b899-6ef869e99fa2,uxbridge.zip,available,10.52,10.52,medium,low,8,spaceship,,,01/10/2026 11:40
 9c601668-14ee-4ca7-9241-b7b6a37bdd7b,motives.zip,available,12.98,15.88,medium,low,7,namecheap,,,28/09/2026 17:11
+70eb85f1-9540-46f1-9c00-0c1559099125,iia.zip,premium,61.27,61.27,high,low,3,spaceship,,,01/10/2026 07:40
 1ba0c9b4-8816-49c4-9c7a-9c273469336f,raconteur.zip,available,12.98,15.88,high,low,9,namecheap,,,19/09/2026 05:14
 fea3f328-3967-467a-b76d-1f8c6df70171,encumbered.zip,available,12.98,15.88,medium,low,10,namecheap,,,17/08/2026 00:40
 89a74b61-9e1d-421d-a68b-340d1f90fdd5,fitness.zip,premium,1034.17,1034.17,high,medium,7,spaceship,,,28/09/2026 07:35
@@ -694,7 +744,7 @@ eff8c119-15c2-49f5-99f2-2504e4b9172b,passes.zip,premium,76.7,76.7,high,low,6,nam
 b6500847-a162-4e29-83cb-e0728235a03c,bamboo.zip,premium,648.7,648.7,high,medium,6,namecheap,,,22/09/2026 00:40
 afb5847f-b96a-4364-aba9-ff3991dde905,conniption.zip,available,12.98,15.88,medium,low,10,namecheap,,,18/08/2026 05:43
 9de9af5d-cfb5-435a-bba0-c5991281f643,khakis.zip,available,10.52,10.52,high,low,6,spaceship,,,30/09/2026 01:17
-babf6d74-417a-4417-8ca8-d37dc4bdb338,manages.zip,available,14,15.88,medium,low,7,unstoppable,,,28/09/2026 13:31
+babf6d74-417a-4417-8ca8-d37dc4bdb338,manages.zip,available,10.52,10.52,medium,low,7,spaceship,,,01/10/2026 21:33
 5c22888a-9796-4071-9451-8a427221f191,opaque.zip,premium,76.7,76.7,high,low,6,namecheap,,,04/09/2026 15:47
 6d55db9a-c641-4ef6-9551-a1cf17849f30,parties.zip,premium,167.7,167.7,medium,low,7,namecheap,,,17/09/2026 10:18
 106e86ba-4c04-4fae-9d5a-7d7e63963f35,gymnastics.zip,premium,59.2,,high,low,10,unstoppable,,,29/09/2026 01:12
@@ -786,12 +836,14 @@ e3c2eea0-8b93-4d91-8eca-fe1f717bbeb5,valueless.zip,available,12.98,15.88,medium,
 596382ac-18b8-4f70-b180-ea6a5a41a9c1,maths.zip,premium,133.72,133.72,high,low,5,spaceship,,,30/09/2026 04:03
 c074dabd-ce8c-48c0-848b-65ba45c7dd15,hepatitis.zip,premium,30.22,30.22,high,low,9,spaceship,,,29/09/2026 19:09
 d70aef26-9ffd-43f8-b014-35a4c67076cf,hickman.zip,available,10.52,10.52,high,low,7,spaceship,,,28/09/2026 16:11
+2baad157-19f3-4095-a36d-bf79d0871b1c,assessing.zip,available,10.52,10.52,high,low,9,spaceship,,,02/10/2026 02:39
 80403866-07cb-447d-8a2e-ad9741b49fb2,gonzales.zip,available,12.98,15.88,medium,low,8,namecheap,,,27/09/2026 20:26
 ea22e418-a376-4676-81a4-1e0f5eeed355,patrol.zip,premium,167.7,167.7,high,low,6,namecheap,,,25/09/2026 23:57
 0383cf2c-3123-4fe6-88e2-7412b5efe30d,savvy.zip,premium,37.7,37.7,high,low,5,namecheap,,,12/09/2026 07:40
 556e87e3-0ba7-43b1-b578-be15cf3fa3c2,barbell.zip,available,12.98,15.88,high,low,7,namecheap,,,22/09/2026 04:49
 f74a349a-ee21-4e63-a6ad-37ff810ea2ff,vor.zip,premium,61.27,61.27,medium,low,3,spaceship,,,30/09/2026 03:38
 1e25f839-7ae3-48d5-b694-4243399b411d,unsung.zip,available,12.98,15.88,medium,low,6,namecheap,,,12/09/2026 20:49
+2cf2acd3-f78c-4665-9765-20dbb8b2025b,steed.zip,available,12.98,15.88,high,low,5,namecheap,,,01/10/2026 21:53
 88b208ab-786a-452d-aa04-01fbc45b51ee,ocean.zip,premium,1298.7,1298.7,high,medium,5,namecheap,,,30/09/2026 06:03
 7c7f4d6b-638f-45cd-9cd3-e34a4d35ab6b,bearnaise.zip,available,12.98,15.88,medium,low,9,namecheap,,,22/09/2026 21:23
 f9ebd6b4-f1ab-4114-8cce-1c12fc9cdee6,comments.zip,premium,76.7,76.7,medium,low,8,namecheap,,,17/09/2026 01:39
@@ -847,7 +899,7 @@ a6fcdc61-f291-46f6-8a08-b2c96b8a459a,telltale.zip,available,12.98,15.88,high,low
 82cd6a8f-af26-4fe3-8bd4-9d4cc1190ecd,affiliation.zip,available,15.88,,high,low,11,namecheap,,,
 1a776608-e3b9-49c8-be7c-4e703c255ffb,rumor.zip,premium,36.25,36.25,high,low,5,name.com,,,21/08/2026 02:05
 5aab2a9e-edcb-4beb-b46c-8916e348e1a0,omnivorous.zip,available,12.98,15.88,medium,low,10,namecheap,,,04/09/2026 13:56
-609276be-2ffd-4ca7-9acc-8f5fbc883ed6,carrie.zip,premium,161.25,,high,low,6,name.com,,,
+609276be-2ffd-4ca7-9acc-8f5fbc883ed6,carrie.zip,premium,133.72,133.72,high,low,6,spaceship,,,02/10/2026 04:14
 3acda3ad-f946-40f0-acdb-a1425a22dd88,blois.zip,available,10.52,10.52,medium,low,5,spaceship,,,30/09/2026 21:55
 db5549b4-7411-436a-940e-5cd152a607ec,anticipation.zip,available,10.52,10.52,high,low,12,spaceship,,,28/09/2026 22:53
 63560b03-4d3a-4330-816c-e7e0c293b687,enter.zip,premium,272.35,272.35,high,low,5,porkbun,,,29/09/2026 23:59
@@ -887,6 +939,7 @@ d61c7a69-7c3f-43ed-ac9b-487ae10f7eaf,emerging.zip,premium,73.75,73.75,high,low,8
 2af09b10-8aa3-472e-a027-54fbe1989e26,greenly.zip,available,12.98,15.88,medium,low,7,namecheap,,,14/09/2026 22:19
 bc4c222a-a3c7-4d19-925a-6d7c1bd07063,onset.zip,premium,37.7,37.7,high,low,5,namecheap,,,04/09/2026 14:29
 809e5ec3-c191-43da-b3a7-507abfdcf595,bishkek.zip,available,12.98,15.88,medium,low,7,namecheap,,,23/09/2026 21:43
+7cfe6077-bae7-4386-8276-dc637b1364ef,bureaucracy.zip,available,10.52,10.52,high,low,11,spaceship,,,01/10/2026 13:02
 75a49ca3-5e69-4f85-9354-5fb1c1656f17,ashy.zip,available,12.98,15.88,medium,low,4,namecheap,,,07/08/2026 02:04
 df20243d-adea-4687-b5bf-6a06501c65de,nuevo.zip,premium,141.35,141.35,high,low,5,porkbun,,,28/09/2026 04:18
 70d3fa3d-7581-4c96-85d0-cc09386b8e71,devour.zip,available,10.81,10.81,high,low,6,porkbun,,,30/09/2026 17:52
@@ -903,7 +956,7 @@ e071be6f-719d-4f1b-aefa-1050f1e37889,radiator.zip,premium,29.2,,high,low,8,unsto
 14810721-c88c-4e29-a3e3-a937c7a52784,preferent.zip,available,12.98,15.88,medium,low,9,namecheap,,,09/08/2026 17:55
 a5f97d5c-59fa-4d04-b7d3-fc19d8e44872,knowingly.zip,available,12.98,15.88,medium,low,9,namecheap,,,15/09/2026 10:35
 9f0b71e7-5de5-47b7-a68e-76e71ed97968,commerce.zip,premium,129.2,167.7,high,low,8,unstoppable,,,01/10/2026 01:08
-e0527591-fd02-4299-9daf-7014b899bdeb,thoughtless.zip,available,15.88,,medium,low,11,namecheap,,,
+e0527591-fd02-4299-9daf-7014b899bdeb,thoughtless.zip,available,14,,medium,low,11,unstoppable,,,01/10/2026 08:10
 f70b2f2c-e2eb-463f-829c-66d797ddccb4,quietly.zip,available,12.98,15.88,high,low,7,namecheap,,,09/09/2026 08:49
 d6aa65ba-d1cf-48e5-b865-b6c3eebc650e,need.zip,premium,648.7,648.7,high,low,4,namecheap,,,25/09/2026 21:55
 2bc47d47-98f6-4fee-86ca-89f834347026,masoud.zip,available,12.98,15.88,medium,low,6,namecheap,,,17/09/2026 20:25
@@ -938,7 +991,7 @@ b6ed9d12-2073-4c35-835b-de934e19529f,jewell.zip,premium,30.22,30.22,medium,low,6
 c698ee0d-79b4-47d5-b59e-e35aed7b1da9,lowborn.zip,available,12.98,15.88,medium,low,7,namecheap,,,24/08/2026 10:44
 f8a56b04-071e-4f80-b761-bca6dd6b157f,eloquent.zip,available,12.98,15.88,high,low,8,namecheap,,,16/08/2026 06:14
 b04e97b9-4c63-4499-ac47-70b412d27552,demo.zip,premium,1298.7,1298.7,high,medium,4,namecheap,,,27/09/2026 05:08
-5284845d-e4ca-4e38-93dc-51c08f941de0,concentrated.zip,available,15.88,,high,low,12,namecheap,,,
+5284845d-e4ca-4e38-93dc-51c08f941de0,concentrated.zip,available,10.52,10.52,high,low,12,spaceship,,,01/10/2026 09:43
 ee0e9ec5-ff70-4282-aad5-1e4455e92bf5,piagetian.zip,available,12.98,15.88,high,medium,9,namecheap,,,08/09/2026 19:26
 22d8fd77-6a0e-4fae-a614-e6a2e77a2a40,nemo.zip,premium,29.2,,high,low,4,unstoppable,,,30/09/2026 21:32
 6a95ad3f-8562-4e78-80e1-acd6847b2be9,rubidium.zip,available,12.98,15.88,medium,low,8,namecheap,,,20/09/2026 22:58
@@ -946,56 +999,3 @@ ee0e9ec5-ff70-4282-aad5-1e4455e92bf5,piagetian.zip,available,12.98,15.88,high,me
 a00700bd-30ae-4989-9217-30f7ca0605f1,mel.zip,premium,167.7,167.7,high,low,3,namecheap,,,25/09/2026 11:23
 34bd214a-e7be-4722-96b7-47c7dcc68d57,themselves.zip,available,12.98,15.88,medium,low,10,namecheap,,,25/09/2026 16:52
 00f0676a-8395-4af9-b7dc-4313fc49e748,challenged.zip,available,10.52,10.52,medium,low,10,spaceship,,,28/09/2026 11:21
-05826839-01f1-4b20-9638-fec42af6d82e,bayes.zip,premium,37.7,37.7,high,low,5,namecheap,,,22/09/2026 18:03
-17030890-378d-4740-820c-3cff836fe9af,tirana.zip,premium,37.7,37.7,high,low,6,namecheap,,,18/09/2026 02:27
-f6b43340-34dd-4e49-9812-8d750a0c7b2f,abandon.zip,available,12.98,15.88,high,low,7,namecheap,,,14/08/2026 03:52
-60699ec4-97dc-41a2-9631-0f76ce4662b4,saccade.zip,available,12.98,15.88,medium,low,7,namecheap,,,22/08/2026 12:47
-bbfe3c2f-539b-442c-a2e8-2184375fc001,qaeda.zip,available,12.98,15.88,medium,low,5,namecheap,,,18/09/2026 00:59
-967b2194-2004-4d42-b2cd-7492efaeaf16,serene.zip,premium,36.25,36.25,high,low,6,name.com,,,11/08/2026 14:51
-99fc215e-6e98-44de-972c-ca7ef95259c6,bauer.zip,premium,76.7,76.7,high,low,5,namecheap,,,25/09/2026 13:07
-acd4dc30-b73b-4184-8483-d5434c842773,adventism.zip,available,12.98,15.88,medium,low,9,namecheap,,,17/09/2026 10:32
-c07e4eb4-a8d0-4a1b-a8ed-6c4e176f9573,flagging.zip,available,12.98,15.88,medium,low,8,namecheap,,,14/08/2026 19:41
-199fd2fc-7842-4e1e-8e40-6ca4a23aaa89,anus.zip,available,12.98,15.88,medium,low,4,namecheap,,,19/09/2026 15:56
-8ad856b5-1037-489d-a373-df0424198b50,ardeb.zip,available,12.98,15.88,medium,low,5,namecheap,,,20/09/2026 03:06
-b8c7eaf1-0df6-4313-9d51-4a5a5ff757d9,curtain.zip,premium,64.93,64.93,high,low,7,porkbun,,,29/09/2026 13:08
-af70f287-f6f5-48a1-87be-766a2cb9d41b,imitator.zip,available,12.98,15.88,medium,low,8,namecheap,,,19/09/2026 16:27
-696426a1-3a1c-46eb-974b-8ea99d673c1c,unbeatable.zip,available,12.98,15.88,high,low,10,namecheap,,,25/09/2026 11:12
-60428508-f6a5-42a0-82e8-5a1022a68c69,fatherly.zip,available,12.98,15.88,high,low,8,namecheap,,,17/08/2026 23:36
-7601452e-bd40-4a69-a7f5-ad7d09b93219,jerky.zip,premium,36.25,36.25,high,low,5,name.com,,,06/08/2026 22:03
-b0e858e9-0da5-4975-9b85-fec796e20968,jacobean.zip,available,12.98,15.88,high,low,8,namecheap,,,22/08/2026 11:47
-99588f44-72f2-48b8-8b4e-be22f1e7b498,adroit.zip,available,12.98,15.88,high,low,6,namecheap,,,21/09/2026 19:49
-1d00e1a5-0749-4026-bae2-71b052fbbf8c,ministrant.zip,available,12.98,15.88,medium,low,10,namecheap,,,24/08/2026 23:57
-ad23fccf-1ed9-477d-81fe-f387b9145363,buick.zip,available,10.52,10.52,high,low,5,spaceship,,,30/09/2026 12:46
-ca4ac3ac-2208-47a6-a254-7adabd89d209,tourism.zip,premium,257.92,257.92,high,low,7,spaceship,,,29/09/2026 20:31
-2ec870ff-a816-4686-b61d-674acd864603,murderous.zip,available,12.98,15.88,medium,low,9,namecheap,,,21/08/2026 11:28
-1514996c-24d2-4bf1-8ab6-16a8a6bef5b0,bailey.zip,premium,167.7,167.7,high,low,6,namecheap,,,21/09/2026 19:05
-111b6c4b-386b-4f07-a9c2-ee2c8cdd36fd,whap.zip,available,12.98,15.88,medium,low,4,namecheap,,,22/09/2026 10:30
-83acbf43-0eba-4fd8-b698-bda58e26f929,scares.zip,available,10.81,10.81,low,low,6,porkbun,,,30/09/2026 07:09
-4c76b15d-8dc9-440b-8033-3c0991c7cd7d,lacklustre.zip,available,12.98,15.88,medium,low,10,namecheap,,,22/08/2026 18:09
-5b216c2e-f0a2-41a4-a24b-9f6ea0d7f6f0,amplifiers.zip,available,12.98,15.88,medium,low,10,namecheap,,,17/09/2026 07:12
-b6a97567-5e92-4fa4-8738-8da55a647922,costumes.zip,premium,61.27,61.27,medium,low,8,spaceship,,,28/09/2026 05:07
-bc84f7e4-5490-469f-a5e3-29d36d01fb14,blas.zip,available,14,,medium,low,4,unstoppable,,,30/09/2026 22:25
-44d1afc3-4e06-4de8-8358-c8f3ea85e1bf,suburbs.zip,available,14,,low,low,7,unstoppable,,,29/09/2026 05:04
-54bf7b14-ff59-4529-9ced-66d0d9513efe,reaches.zip,available,12.98,15.88,high,low,7,namecheap,,,18/09/2026 18:09
-5c06ba49-47a9-41ab-9762-eb9109cb0492,tossing.zip,available,10.81,10.81,high,low,7,porkbun,,,30/09/2026 03:58
-edb86a1d-6561-44e3-ba57-8e2510ef5b11,wartime.zip,available,14,,medium,low,7,unstoppable,,,30/09/2026 11:19
-2626ca83-bb98-42c5-98e1-f5410d8a27d7,multiphase.zip,available,12.98,15.88,medium,low,10,namecheap,,,03/09/2026 10:50
-a7400667-f3ee-4717-be45-99405ee94d7e,creditors.zip,available,12.98,15.88,medium,low,9,namecheap,,,20/09/2026 15:31
-6ad28abd-5ebe-4e64-af97-0b1338cebabc,aunt.zip,premium,76.7,76.7,high,low,4,namecheap,,,28/09/2026 23:17
-777a0c5b-787c-4cb6-b0b3-7019bfac49c7,enters.zip,premium,30.22,30.22,low,low,6,spaceship,,,28/09/2026 17:22
-04cbf419-9933-4e47-9b33-ccf9d2154de3,lunisolar.zip,available,12.98,15.88,medium,low,9,namecheap,,,24/08/2026 11:31
-9acd11aa-f817-437b-8645-d136702914d7,grapey.zip,available,12.98,15.88,medium,low,6,namecheap,,,20/08/2026 18:06
-07e10e73-e15f-4bef-b29d-00b670131f24,sanious.zip,available,12.98,15.88,medium,low,7,namecheap,,,21/08/2026 17:49
-d4e9faf7-185d-4849-b0f4-7039ce73352c,contacting.zip,available,10.81,10.81,medium,low,10,porkbun,,,01/10/2026 00:49
-ed237713-a99f-4091-b8bb-055bbd51da60,techno.zip,premium,323.7,323.7,high,low,6,namecheap,,,30/09/2026 12:53
-c92ca9cb-49b0-4257-986f-09ca122d015e,ssi.zip,premium,161.25,,high,low,3,name.com,,,
-48c27248-fccc-464c-83e2-4845a32c6bf7,boxed.zip,available,12.98,15.88,high,low,5,namecheap,,,11/08/2026 00:02
-fcabe8ff-309a-4dbf-a0f4-8873fa336f4c,anthyllis.zip,available,12.98,15.88,medium,low,9,namecheap,,,19/09/2026 14:04
-75ab7ba4-bc15-4c5c-912d-f3597759e588,paperlike.zip,available,12.98,15.88,low,low,9,namecheap,,,12/08/2026 02:45
-6da9afc1-c684-42d2-8352-de6f21d8bcd4,dinesen.zip,available,12.98,15.88,medium,low,7,namecheap,,,22/09/2026 07:24
-bc4b4a4a-674b-4512-a4dc-a4b7dcb283ab,attempting.zip,available,10.52,10.52,medium,low,10,spaceship,,,28/09/2026 12:29
-0e8d311c-8325-4b15-8255-2618eb792496,parve.zip,available,12.98,15.88,medium,low,5,namecheap,,,08/09/2026 01:27
-a3708beb-b772-40c9-8078-5320bdbfba32,inaugural.zip,available,12.98,15.88,high,low,9,namecheap,,,22/08/2026 00:37
-de03748e-1769-44fe-861c-458bd3c9be7a,sheepshead.zip,available,12.98,15.88,medium,low,10,namecheap,,,20/09/2026 02:29
-16f9ec10-cb68-4dcb-99a9-44a1b5340693,dekker.zip,premium,32.18,32.18,high,low,6,porkbun,,,29/09/2026 18:35
-e8ce575f-7e28-4809-b399-ccc4081c61f9,seductive.zip,available,12.98,15.88,high,low,9,namecheap,,,10/09/2026 01:39
